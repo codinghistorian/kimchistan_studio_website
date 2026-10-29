@@ -14,13 +14,6 @@
     "url": "https://kimchistan.itch.io/goblin-scrap-co"
   },
   {
-    "title": { "en": "Animal Fighters Club", "ko": "Animal Fighters Club" },
-    "summary": { "en": "Tiny fighters. Plenty of chaos. Jump into quick animal arena battles, solo or with a friend.", "ko": "작은 동물들의 시끌벅적한 한판. 혼자서도, 친구와 함께도 즐기는 빠르고 유쾌한 아레나 대전입니다." },
-    "status": { "en": "Arcade · Fighting", "ko": "아케이드 · 대전" },
-    "image": "assets/games/animal-fighters-club-cover.webp",
-    "url": "https://kimchistan.itch.io/afc"
-  },
-  {
     "type": "asset",
     "title": { "en": "Daycare & Everyday Interiors", "ko": "Daycare & Everyday Interiors" },
     "summary": { "en": "A little something for fellow makers: 360 free CC0 props in GLB and Blender formats.", "ko": "동료 창작자들을 위한 작은 선물. GLB와 Blender 형식의 무료 CC0 소품 360개를 만나보세요." },

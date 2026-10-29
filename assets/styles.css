@@ -86,6 +86,7 @@ em { font-style: normal; color: var(--orange); }
 .hero h1 em { position: relative; }
 .hero-description { max-width: 345px; font-size: 14px; color: var(--muted); line-height: 1.85; margin-top: 25px; }
 .hero-copy .button { margin-top: 29px; }
+.hero-play-note { font-size: 10px; color: var(--muted); margin-top: 10px; }
 .hero-secondary { display: flex; width: fit-content; align-items: center; gap: 12px; font-size: 10px; margin-top: 17px; color: var(--muted); min-height: 30px; }
 .hero-secondary:hover { color: var(--orange); }
 .hero-art { position: relative; display: block; isolation: isolate; overflow: hidden; background: #060d11; color: #eef5f4; border-radius: 3px; }
@@ -135,7 +136,7 @@ em { font-style: normal; color: var(--orange); }
 .games-section { background: #eae8df; border-block: 1px solid var(--line); }
 .games-heading { display: flex; justify-content: space-between; gap: 60px; align-items: end; margin-bottom: 40px; }
 .games-heading > p { font-size: 13px; color: var(--muted); line-height: 1.9; max-width: 320px; padding-bottom: 4px; }
-.game-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 26px; }
+.game-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 26px; }
 .game-image-link { display: block; position: relative; overflow: hidden; border-radius: 2px; background: #deddd1; }
 .game-image-link > img { width: 100%; aspect-ratio: 16/11; object-fit: cover; transition: transform .5s; }
 .game-card:hover .game-image-link > img { transform: scale(1.035); }
@@ -366,8 +367,6 @@ em { font-style: normal; color: var(--orange); }
   .games-heading h2 { font-size: 36px; }
   .games-heading > p { font-size: 11px; max-width: 250px; }
   .game-grid { grid-template-columns: 1fr 1fr; gap: 30px 22px; }
-  .game-card:last-child { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: center; }
-  .game-card:last-child .game-card-copy { padding-top: 0; }
   .game-card h3 { font-size: 21px; }
   .studio-grid { gap: 35px; }
   .studio-grid h2 { font-size: 43px; }
@@ -451,8 +450,6 @@ em { font-style: normal; color: var(--orange); }
   .games-heading h2 { font-size: 36px; }
   .games-heading > p { max-width: 310px; margin-top: 20px; font-size: 12px; }
   .game-grid { grid-template-columns: 1fr; gap: 35px; }
-  .game-card:last-child { display: block; }
-  .game-card:last-child .game-card-copy { padding-top: 20px; }
   .game-image-link > img { aspect-ratio: 16/10; }
   .game-card h3 { font-size: 24px; }
   .game-summary { font-size: 12px; }

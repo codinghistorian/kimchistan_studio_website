@@ -9,7 +9,6 @@ Downloaded from KIMCHISTAN STUDIO’s own public game and store pages on 2026-10
 - `orbit-foundry-screen-3.jpg`: [Original](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275040/4e359ddb2b1cd3a96bb315e38e64794a449a1b28/ss_4e359ddb2b1cd3a96bb315e38e64794a449a1b28.1920x1080.jpg?t=1792858674)
 - `korean-kindergarten-cover.png`: [Original](https://img.itch.zone/aW1nLzMxNTE4NTA3LnBuZw==/original/TH7F2f.png)
 - `goblin-scrap-co-cover.png`: [Original](https://img.itch.zone/aW1nLzMwMDY4MjcyLnBuZw==/original/roZI2n.png)
-- `animal-fighters-club-cover.png`: [Original](https://img.itch.zone/aW1nLzI4OTc5OTQzLnBuZw==/original/n7IjXr.png)
 - `daycare-props-cover.png`: [Original](https://img.itch.zone/aW1nLzMwOTY5NzEzLnBuZw==/original/xt99KO.png)
 - `orbit-foundry-cover.png`: [Original](https://img.itch.zone/aW1nLzMxMzAyODgyLnBuZw==/original/D5F%2BwQ.png)
 - `orbit-foundry-orbit.webp`: [Original](https://codinghistorian.github.io/orbit-foundry-website/assets/images/orbit.webp)
