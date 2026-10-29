@@ -1,16 +1,25 @@
 {
   "name": "KIMCHISTAN STUDIO",
-  "legalName": "주식회사 김치스탄스튜디오",
+  "legalName": "KIMCHISTANSTUDIO Inc.",
+  "legalNameKo": "주식회사 김치스탄스튜디오",
   "domain": "kimchistan.kr",
-  "email": "",
+  "email": "kimmchistanstudio@gmail.com",
   "representative": "",
   "registrationNumber": "",
   "address": {
-    "en": "",
-    "ko": ""
+    "en": "Unit 2094, Commercial Building, 1493 Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do, South Korea",
+    "ko": "경기도 고양시 일산서구 중앙로 1493 상가동 2094호"
+  },
+  "links": {
+    "steam": "https://store.steampowered.com/app/5275040/Orbit_Foundry/",
+    "itch": "https://kimchistan.itch.io/",
+    "prototype": "https://kimchistan.itch.io/orbit-foundry",
+    "discord": "https://discord.gg/fZxx85HvF7",
+    "twitter": "https://x.com/kimchistangames",
+    "youtube": "https://www.youtube.com/@kimchistan"
   },
   "description": {
-    "en": "KIMCHISTAN STUDIO is a game studio creating new worlds with curiosity, character, and a little spice.",
-    "ko": "킴치스탄 스튜디오는 호기심과 개성, 그리고 작은 특별함을 담아 새로운 세계를 만드는 게임 스튜디오입니다."
+    "en": "An independent game studio based in South Korea. Our next adventure is Orbit Foundry, a cosmic factory incremental. Coming soon to Steam — wishlist now.",
+    "ko": "대한민국의 인디 게임 스튜디오, 김치스탄 스튜디오. 별 주위에 공장을 짓는 인크리멘털 게임 Orbit Foundry가 Steam에 곧 출시됩니다. 지금 위시리스트에 추가해 주세요."
   }
 }

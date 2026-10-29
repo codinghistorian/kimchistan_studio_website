@@ -1,8 +1,8 @@
 # KIMCHISTAN STUDIO
 
-A simple English/Korean website for **주식회사 김치스탄스튜디오**, prepared for **kimchistan.kr** and GitHub Pages.
+The English/Korean studio and Orbit Foundry launch website for **KIMCHISTANSTUDIO Inc. (주식회사 김치스탄스튜디오)**, published at **kimchistan.kr** through GitHub Pages.
 
-The site includes company information, a games section, a dedicated **전자공고** archive, permanent notice pages, optional document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript. There are no dependencies, generated images, tracking scripts, forms, or backend services. The font is self-hosted.
+The site includes company information, a games section, a dedicated **전자공고** archive, permanent notice pages, optional document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript. There are no runtime dependencies, tracking scripts, forms, or backend services. Fonts and optimized game images are self-hosted. The homepage features the upcoming Orbit Foundry release, a keyboard-accessible screenshot gallery, playable projects, studio information, and community links.
 
 ## Preview locally
 
@@ -38,7 +38,9 @@ Edit [content/site.json](content/site.json):
 
 | Field | Used for |
 | --- | --- |
-| `legalName` | Exact legal name, company information, and footer |
+| `legalName` | Exact English legal name, company information, and footer |
+| `legalNameKo` | Korean legal name, displayed alongside the English name |
+| `links` | Steam, itch.io, prototype, Discord, X, and YouTube destinations |
 | `domain` | Hostname without `https://`, `CNAME`, canonical URLs, and sitemap |
 | `email` | Public contact section and contact links; omitted until supplied |
 | `representative` | Company representative; omitted until supplied |
@@ -46,11 +48,11 @@ Edit [content/site.json](content/site.json):
 | `address.en`, `address.ko` | Public company address; omitted until supplied |
 | `description.en`, `description.ko` | Search and sharing descriptions |
 
-The Korean legal name remains Korean in both language modes. Missing fields stay hidden. Nothing is inferred about your address, registration number, representative, or products.
+Both legal names and both address translations appear in the footer in either language mode. The supplied address is normalized to remove the repeated city/district prefix. Unspecified registration and representative fields remain hidden. Launch and project copy is translated through the EN / KO switch.
 
 ## Add games
 
-Edit [content/games.json](content/games.json), which starts as an empty array. Replace the empty array with entries following this structure, using your actual game information:
+Edit [content/games.json](content/games.json) to maintain the portfolio, using this structure for each project:
 
 ```json
 [
@@ -64,7 +66,9 @@ Edit [content/games.json](content/games.json), which starts as an empty array. R
 ]
 ```
 
-`image` and `url` are optional. Put real screenshots in `assets/games/`. A game without an image gets a simple title panel; without a URL, no store link is shown. The build validates supplied asset paths and HTTP(S) links. With no games listed, visitors see a short message explaining that game announcements will appear here.
+`image` and `url` are required. Put real optimized screenshots in `assets/games/`. The build validates asset paths and HTTP(S) destinations. Add `"type": "asset"` to present an asset pack as a compact resource link below the games. Orbit Foundry has its own launch section in `scripts/build.mjs`; update that section and its screenshots when release information changes. Image provenance is recorded in [docs/image-sources.md](docs/image-sources.md).
+
+The itch.io studio profile is edited separately on itch.io. Its published theme and copy are backed up in [docs/itch-profile.md](docs/itch-profile.md).
 
 ## Publish an official notice
 

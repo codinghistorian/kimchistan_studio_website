@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "title": { "en": "Korean Kindergarten", "ko": "Korean Kindergarten" },
+    "summary": { "en": "A little world of everyday wonder. Explore the familiar details of a Korean home daycare in first person.", "ko": "익숙한 일상 속 작은 발견. 한국의 가정 어린이집을 1인칭으로 둘러보는 시뮬레이션입니다." },
+    "status": { "en": "Exploration · Simulation", "ko": "탐험 · 시뮬레이션" },
+    "image": "assets/games/korean-kindergarten-cover.webp",
+    "url": "https://kimchistan.itch.io/korean-kindergarten"
+  },
+  {
+    "title": { "en": "Goblin Scrap Co.", "ko": "Goblin Scrap Co." },
+    "summary": { "en": "Big dreams. Small goblins. Hire a crew, automate the scrap heap, and build a walking scrapyard.", "ko": "작은 고블린들의 커다란 꿈. 동료를 고용하고, 고철 처리를 자동화하고, 걸어 다니는 고물상을 만드세요." },
+    "status": { "en": "Automation · Simulation", "ko": "자동화 · 시뮬레이션" },
+    "image": "assets/games/goblin-scrap-co-cover.webp",
+    "url": "https://kimchistan.itch.io/goblin-scrap-co"
+  },
+  {
+    "title": { "en": "Animal Fighters Club", "ko": "Animal Fighters Club" },
+    "summary": { "en": "Tiny fighters. Plenty of chaos. Jump into quick animal arena battles, solo or with a friend.", "ko": "작은 동물들의 시끌벅적한 한판. 혼자서도, 친구와 함께도 즐기는 빠르고 유쾌한 아레나 대전입니다." },
+    "status": { "en": "Arcade · Fighting", "ko": "아케이드 · 대전" },
+    "image": "assets/games/animal-fighters-club-cover.webp",
+    "url": "https://kimchistan.itch.io/afc"
+  },
+  {
+    "type": "asset",
+    "title": { "en": "Daycare & Everyday Interiors", "ko": "Daycare & Everyday Interiors" },
+    "summary": { "en": "A little something for fellow makers: 360 free CC0 props in GLB and Blender formats.", "ko": "동료 창작자들을 위한 작은 선물. GLB와 Blender 형식의 무료 CC0 소품 360개를 만나보세요." },
+    "status": { "en": "Free 3D asset pack", "ko": "무료 3D 에셋 팩" },
+    "image": "assets/games/daycare-props-cover.webp",
+    "url": "https://kimchistan.itch.io/daycare-everyday-interiors-240"
+  }
+]

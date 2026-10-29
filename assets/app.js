@@ -67,3 +67,16 @@ function filterNotices() {
 }
 search?.addEventListener('input', filterNotices);
 yearFilter?.addEventListener('change', filterNotices);
+
+// Small, keyboard-accessible gallery of the game's real Steam screenshots.
+const gameplayImage = document.querySelector('#gameplay-image');
+document.querySelectorAll('[data-screenshot]').forEach((button) => {
+  button.addEventListener('click', () => {
+    if (!gameplayImage) return;
+    gameplayImage.src = button.dataset.screenshot;
+    gameplayImage.alt = button.dataset.alt;
+    document.querySelectorAll('[data-screenshot]').forEach((item) => {
+      item.setAttribute('aria-pressed', String(item === button));
+    });
+  });
+});
