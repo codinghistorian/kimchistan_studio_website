@@ -1,8 +1,16 @@
 # KIMCHISTAN STUDIO
 
-The English/Korean studio and Orbit Foundry launch website for **KIMCHISTANSTUDIO Inc. (주식회사 김치스탄스튜디오)**, published at **kimchistan.kr** through GitHub Pages.
+The English/Korean creative technology studio website for **KIMCHISTANSTUDIO Inc. (주식회사 김치스탄스튜디오)**, published at **kimchistan.kr** through GitHub Pages.
 
-The site includes company information, a games section, a dedicated **전자공고** archive, permanent notice pages, optional document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript. There are no runtime dependencies, tracking scripts, forms, or backend services. Fonts and optimized game images are self-hosted. The homepage features the upcoming Orbit Foundry release, a keyboard-accessible screenshot gallery, playable projects, studio information, and community links.
+The bilingual studio website has a portfolio-led homepage, dedicated **Games**, **Software & AI**, and **Orbit Foundry** pages, and a **전자공고** archive with permanent notice pages, document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript, with no runtime dependencies, tracking scripts, forms, or backend services. Fonts and optimized game images are self-hosted. English is the default for marketing pages; the EN / KO switch remembers the visitor’s choice across pages. Notice documents remain Korean.
+
+| Destination | Content |
+| --- | --- |
+| `/` | Selected work, studio introduction, service paths, project inquiries, notices summary |
+| `/games/` | Games, prototypes, free asset pack, and community |
+| `/services/` | Software and AI capabilities, possible applications, process, and inquiries |
+| `/games/orbit-foundry/` | Orbit Foundry, accessible screenshot gallery, Steam, and prototype |
+| `/notices/` | Official corporate notice archive and permanent documents |
 
 ## Preview locally
 
@@ -19,6 +27,14 @@ npm run build
 ```
 
 This generates the deployable website in `dist/`, including `CNAME`, a sitemap, and `robots.txt`. `dist/` is generated output and is not committed.
+
+```sh
+npm test
+```
+
+The Node test runner checks generated destinations, local assets and fragments, metadata, font files, inquiry links, and empty/published/draft notice fixtures. Test output stays in `.artifacts/` and is removed after each run.
+
+Project inquiry buttons open the current public email address with a short, localized brief. A copy-email control appears when the browser supports the Clipboard API; the visible address works independently.
 
 ## Publish on GitHub Pages
 
@@ -48,7 +64,7 @@ Edit [content/site.json](content/site.json):
 | `address.en`, `address.ko` | Public company address; omitted until supplied |
 | `description.en`, `description.ko` | Search and sharing descriptions |
 
-Both legal names and both address translations appear in the footer in either language mode. The supplied address is normalized to remove the repeated city/district prefix. Unspecified registration and representative fields remain hidden. Launch and project copy is translated through the EN / KO switch.
+Both legal names and both address translations appear in the footer in either language mode. Unspecified registration and representative fields remain hidden. Marketing page copy lives in `scripts/pages.mjs`; shared navigation, contact, and footer copy lives in `scripts/render.mjs`. Update both languages together. Titles, descriptions, alternative text, screenshot captions, and inquiry templates also follow the language switch. The social sharing image is `assets/studio-social.png`, with its editable composition in `assets/studio-social.svg`. To regenerate it, build, open `/assets/studio-social.svg` in a browser at 1200 × 630, wait for its font, and capture that viewport as `assets/studio-social.png`.
 
 ## Add games
 
@@ -66,7 +82,7 @@ Edit [content/games.json](content/games.json) to maintain the portfolio, using t
 ]
 ```
 
-`image` and `url` are required. Put real optimized screenshots in `assets/games/`. The build validates asset paths and HTTP(S) destinations. Add `"type": "asset"` to present an asset pack as a compact resource link below the games. Orbit Foundry has its own launch section in `scripts/build.mjs`; update that section and its screenshots when release information changes. Image provenance is recorded in [docs/image-sources.md](docs/image-sources.md).
+`image` and `url` are required. Put real optimized screenshots in `assets/games/`. The build validates asset paths, bilingual copy, and HTTP(S) destinations. Add `"type": "asset"` to present an asset pack as a compact resource link. Orbit Foundry is the first project and has `"detailPath": "games/orbit-foundry/"`; this optional field must name an implemented project page. Other games continue to link directly to their external destinations. Update Orbit Foundry’s detailed copy and screenshot descriptions in `scripts/pages.mjs` when release information changes. Image provenance is recorded in [docs/image-sources.md](docs/image-sources.md).
 
 The itch.io studio profile is edited separately on itch.io. Its published theme and copy are backed up in [docs/itch-profile.md](docs/itch-profile.md).
 
@@ -89,15 +105,21 @@ This website supplies the technical publishing mechanism. Confirm your articles 
 ## Files
 
 ```text
-assets/                  Styles, browser behavior, and local font
+assets/                  Styles, browser behavior, fonts, project images, and sharing image
+assets/fonts/            Pretendard v1.3.9 variable Unicode subsets and license
 content/site.json        Company information
 content/games.json       Game listings
 content/notices/         Approved notice sources (JSON)
 scripts/build.mjs        Static page generator
+scripts/pages.mjs        Bilingual marketing page content
+scripts/render.mjs       Shared HTML components and inquiry links
 scripts/serve.mjs        Local preview server
+tests/build.test.mjs     Static build and publication smoke tests
 docs/notice.example.json Unpublished notice template
 .github/workflows/       Automatic GitHub Pages deployment
 dist/                    Generated website; ignored by Git
 ```
 
 Space Grotesk is distributed under the SIL Open Font License included in [assets/FONT-LICENSE.txt](assets/FONT-LICENSE.txt).
+
+Pretendard v1.3.9 is vendored from its [official repository](https://github.com/orioncactus/pretendard/tree/v1.3.9) using variable Unicode subsets. Its stylesheet URLs are normalized to local files under `assets/fonts/`; only the subsets needed by displayed characters are requested. Its SIL Open Font License is included in [assets/fonts/PRETENDARD-LICENSE.txt](assets/fonts/PRETENDARD-LICENSE.txt).

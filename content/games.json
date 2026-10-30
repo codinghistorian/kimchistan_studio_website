@@ -1,5 +1,13 @@
 [
   {
+    "title": { "en": "Orbit Foundry", "ko": "Orbit Foundry" },
+    "summary": { "en": "Build a factory around a star. Connect your machines, find your production rhythm, and grow with every Reforge.", "ko": "별 주위에 나만의 공장을 만드세요. 기계를 연결하고 생산 리듬을 찾으며 리포지할 때마다 성장하세요." },
+    "status": { "en": "Factory · Incremental", "ko": "공장 · 증분 게임" },
+    "image": "assets/games/orbit-foundry-screen-1.webp",
+    "url": "https://store.steampowered.com/app/5275040/Orbit_Foundry/",
+    "detailPath": "games/orbit-foundry/"
+  },
+  {
     "title": { "en": "Korean Kindergarten", "ko": "Korean Kindergarten" },
     "summary": { "en": "A little world of everyday wonder. Explore the familiar details of a Korean home daycare in first person.", "ko": "익숙한 일상 속 작은 발견. 한국의 가정 어린이집을 1인칭으로 둘러보는 시뮬레이션입니다." },
     "status": { "en": "Exploration · Simulation", "ko": "탐험 · 시뮬레이션" },

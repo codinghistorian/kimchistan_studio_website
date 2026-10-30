@@ -15,3 +15,5 @@ Downloaded from KIMCHISTAN STUDIO’s own public game and store pages on 2026-10
 - `orbit-foundry-trailer-poster.jpg`: [Original](https://codinghistorian.github.io/orbit-foundry-website/assets/video/poster.jpg)
 
 Orbit Foundry store facts were checked against the [Steam app details API](https://store.steampowered.com/api/appdetails?appids=5275040) and the [itch.io game page](https://kimchistan.itch.io/orbit-foundry).
+
+The studio sharing image, `assets/studio-social.png`, is a 1200 × 630 browser rendering of the original text-and-vector composition in `assets/studio-social.svg`. It uses the studio palette, star mark, and the locally licensed Space Grotesk font. Existing game artwork and screenshots are used unchanged.
