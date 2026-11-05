@@ -89,9 +89,9 @@ test('legacy homepage destinations and project store links are preserved', async
 
 test('bilingual project briefs are complete, correctly encoded mailto URLs', () => {
   for (const lang of ['en', 'ko']) {
-    const url = new URL(inquiryHref('kimmchistanstudio@gmail.com', lang));
+    const url = new URL(inquiryHref('kimmchistan@gmail.com', lang));
     assert.equal(url.protocol, 'mailto:');
-    assert.equal(url.pathname, 'kimmchistanstudio@gmail.com');
+    assert.equal(url.pathname, 'kimmchistan@gmail.com');
     assert.ok(url.searchParams.get('subject').includes('KIMCHISTAN STUDIO'));
     const body = url.searchParams.get('body');
     assert.ok(body.includes(lang === 'en' ? 'Current tools:' : '현재 사용하는 도구:'));

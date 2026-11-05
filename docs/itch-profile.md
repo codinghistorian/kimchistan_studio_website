@@ -25,7 +25,7 @@ This is a backup of the published copy. To update it, open **Edit profile** on i
 <p><strong><a href="https://store.steampowered.com/app/5275040/Orbit_Foundry/">Wishlist Orbit Foundry on Steam →</a></strong><br><a href="https://kimchistan.itch.io/orbit-foundry">Play the free 2D demo in your desktop browser</a></p>
 <p>Explore our games and experiments below, from cozy Korean spaces to goblin-powered factories and chaotic animal battles.</p>
 <hr>
-<p><strong>Come along for the next adventure.</strong><br><a href="https://kimchistan.kr/">Studio website</a> · <a href="https://discord.gg/fZxx85HvF7">Discord</a> · <a href="https://www.youtube.com/@kimchistan">YouTube</a> · <a href="https://x.com/kimchistangames">X</a><br><a href="mailto:kimmchistanstudio@gmail.com">kimmchistanstudio@gmail.com</a></p>
+<p><strong>Come along for the next adventure.</strong><br><a href="https://kimchistan.kr/">Studio website</a> · <a href="https://discord.gg/fZxx85HvF7">Discord</a> · <a href="https://www.youtube.com/@kimchistan">YouTube</a> · <a href="https://x.com/kimchistangames">X</a><br><a href="mailto:kimmchistan@gmail.com">kimmchistan@gmail.com</a></p>
 <p><small>KIMCHISTANSTUDIO Inc. · South Korea</small></p>
 ```
 
