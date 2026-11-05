@@ -51,7 +51,7 @@ test('all local links, images, scripts, styles, and fragments resolve at every p
     assert.equal(new Set(ids).size, ids.length, 'Duplicate IDs in ' + file);
     for (const match of source.matchAll(/<(?:a|link|img|script)\b[^>]*?\b(?:href|src)="([^"]+)"/g)) {
       const href = decode(match[1]);
-      if (/^(?:https?:|mailto:|data:)/.test(href)) continue;
+      if (/^(?:https?:|mailto:|tel:|data:)/.test(href)) continue;
       const url = new URL(href, 'https://example.test/' + file);
       let target = resolve(root, populatedDirectory, '.' + decodeURIComponent(url.pathname));
       if (url.pathname.endsWith('/')) target = resolve(target, 'index.html');

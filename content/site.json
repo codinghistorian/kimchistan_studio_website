@@ -4,6 +4,10 @@
   "legalNameKo": "주식회사 김치스탄스튜디오",
   "domain": "kimchistan.kr",
   "email": "kimmchistanstudio@gmail.com",
+  "phone": {
+    "en": "82 31 911 8190",
+    "ko": "031-911-8190"
+  },
   "representative": "",
   "registrationNumber": "",
   "address": {

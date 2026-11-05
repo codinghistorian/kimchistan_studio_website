@@ -7,6 +7,7 @@ export const external = (url) => `href="${e(url)}" target="_blank" rel="noopener
 export const label = (en, ko, lang = 'en') => `aria-label="${e(lang === 'ko' ? ko : en)}" data-label-en="${e(en)}" data-label-ko="${e(ko)}"`;
 export const alt = (en, ko) => `alt="${e(en)}" data-alt-en="${e(en)}" data-alt-ko="${e(ko)}"`;
 export const localized = (value) => t(e(value.en), e(value.ko));
+const phoneLink = (site) => `<a href="tel:+${e(site.phone.en.replace(/\s/g, ''))}">${localized(site.phone)}</a>`;
 
 export function inquiryHref(email, lang) {
   const subject = lang === 'ko' ? '프로젝트 문의 — KIMCHISTAN STUDIO' : 'Project inquiry — KIMCHISTAN STUDIO';
@@ -49,6 +50,7 @@ export function footer(site, prefix) {
       ${site.representative ? `<p>대표자 ${e(site.representative)}</p>` : ''}
       ${site.registrationNumber ? `<p>사업자등록번호 ${e(site.registrationNumber)}</p>` : ''}
       <a href="mailto:${e(site.email)}">${e(site.email)}</a>
+      <div>${phoneLink(site)}</div>
     </div><div class="footer-navigation">
       <a href="${prefix}games/">${t('Games', '게임')}${arrow}</a>
       <a href="${prefix}services/">${t('Software & AI', '소프트웨어 & AI')}${arrow}</a>
@@ -87,6 +89,7 @@ export function contact(site, { compact = false } = {}) {
     <div class="contact-grid"><div><h2>${t('Let’s make<br>it <em>happen.</em>', '함께<br><em>만들어 봐요.</em>')}</h2><p class="contact-intro">${t('A useful tool. A new workflow. An idea you’re ready to explore. Tell us where you’d like to start.', '필요한 도구부터 새로운 업무 방식, 구체화하고 싶은 아이디어까지. 어디에서 시작하고 싶은지 들려주세요.')}</p></div>
     <div class="contact-action"><p class="mini-label">${t('Your next step', '이렇게 시작해요')}</p><h3>${t('Tell us what you’re building.', '만들고 싶은 것을 알려주세요.')}</h3><p>${t('Share your goal, current tools, and timing. Our email template gives you a starting point.', '목표와 현재 사용하는 도구, 희망 일정을 알려주세요. 이메일 양식에 간단히 적어 주시면 됩니다.')}</p>${inquiryLink(site)}
       <div class="email-row"><a href="mailto:${e(site.email)}">${e(site.email)}</a><button type="button" class="copy-email" data-copy-email="${e(site.email)}" hidden>${t('Copy', '복사')}</button></div><p class="copy-status" data-copy-status role="status" aria-live="polite"></p>
+      <div class="email-row">${phoneLink(site)}</div>
     </div></div>
     ${compact ? '' : `<div class="contact-community"><span>${t('Here for the games?', '게임 이야기를 나누고 싶다면?')}</span><a ${external(site.links.discord)}>Discord ${arrow}</a><a ${external(site.links.youtube)}>YouTube ${arrow}</a><a ${external(site.links.twitter)}>X / Twitter ${arrow}</a></div>`}
   </div></section>`;
