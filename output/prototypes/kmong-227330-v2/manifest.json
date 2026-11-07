@@ -1,0 +1,73 @@
+{
+  "title": "Precast Component Positioning Study",
+  "revision": "v2 · architecture-review corrections",
+  "duration_seconds": 30,
+  "fps": 30,
+  "frame_start": 1,
+  "frame_end": 900,
+  "blender": "5.2.2 LTS",
+  "model": {
+    "columns": 6,
+    "beams": 7,
+    "hollow_core_slabs": 10,
+    "bays": 2,
+    "grid_metres": [
+      6,
+      6
+    ]
+  },
+  "geometry": "Original procedural geometry built with bpy; no imported model assets",
+  "audio": "Silent; native Korean caption strips",
+  "notice": "Generic braced component-positioning study; permanent connections and grouting are omitted",
+  "engineering_validation": false,
+  "supports": {
+    "brace_assemblies": 10,
+    "kept_in_opening_and_closing": true,
+    "anchor_footings": "Illustrative 0.70 m square bodies embedded in the represented ground",
+    "anchor_design_verified": false
+  },
+  "shots": [
+    {
+      "start": 1,
+      "end": 90,
+      "heading": "프리캐스트 구조부재 배치 시각화",
+      "explanation": "기둥·보·슬래브의 배치 순서를 보여줍니다."
+    },
+    {
+      "start": 91,
+      "end": 240,
+      "heading": "기둥 배치",
+      "explanation": "기초 접합 상세 생략 · 임시 지지부(개념)"
+    },
+    {
+      "start": 241,
+      "end": 390,
+      "heading": "보 배치",
+      "explanation": "받침부 위로 보를 정렬하고 안착시킵니다."
+    },
+    {
+      "start": 391,
+      "end": 570,
+      "heading": "받침부 정렬과 안착",
+      "explanation": "받침 패드 안착 예시 · 영구 접합 상세 생략"
+    },
+    {
+      "start": 571,
+      "end": 750,
+      "heading": "슬래브 배치",
+      "explanation": "슬래브 간 접합·그라우팅 공정 생략"
+    },
+    {
+      "start": 751,
+      "end": 900,
+      "heading": "구조부재 배치 완료",
+      "explanation": "접합·그라우팅 상세는 발주처 도면에 따라 반영"
+    }
+  ],
+  "outputs": [
+    "precast-assembly-30s-4k.mp4",
+    "precast-assembly-30s-1080p.mp4",
+    "thumbnail.png",
+    "precast-assembly.blend"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "scope": "Geometry, visibility and caption verification only",
+  "engineering_validation": false,
+  "blender": "5.2.2 LTS",
+  "counts": {
+    "columns": 6,
+    "beams": 7,
+    "hollow_core_slabs": 10,
+    "brace_assemblies": 10
+  },
+  "maximum_footplate_contact_error_mm": 3.725290298461914e-06,
+  "maximum_rod_pin_alignment_error_mm": 0.00024746950688454237,
+  "anchor_footings_embedded": true,
+  "brace_group_visibility_checks": 350,
+  "opening_and_closing_braces_retained": true,
+  "hardware_parenting_and_installation_schedule": "passed",
+  "brace_angles_degrees_observed_not_designed": [
+    67.89986540855067,
+    67.89986540855067
+  ],
+  "member_support_contact": "passed",
+  "packed_fonts": [
+    {
+      "name": "Pretendard Regular",
+      "packed_bytes": 2725828
+    },
+    {
+      "name": "Pretendard SemiBold",
+      "packed_bytes": 2671468
+    }
+  ],
+  "external_libraries": 0,
+  "caption_coverage_frames": 900,
+  "camera_cuts": 5,
+  "native_4k_source": true
+}

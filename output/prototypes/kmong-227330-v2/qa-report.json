@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "videos": [
+    {
+      "file": "precast-assembly-30s-4k.mp4",
+      "width": 3840,
+      "height": 2160,
+      "frames": 900,
+      "fps": 30,
+      "duration_seconds": 30,
+      "codec": "H.264",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "decode_errors": 0,
+      "caption_frames_checked": 900,
+      "minimum_caption_dark_pixels": 448
+    },
+    {
+      "file": "precast-assembly-30s-1080p.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 900,
+      "fps": 30,
+      "duration_seconds": 30,
+      "codec": "H.264",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "decode_errors": 0,
+      "caption_frames_checked": 900,
+      "minimum_caption_dark_pixels": 443
+    }
+  ],
+  "visual_review": {
+    "complete_preview_and_encoded_contact_sheets": "passed",
+    "native_4k_frames_inspected": [
+      45,
+      420,
+      690,
+      840
+    ],
+    "encoded_1080p_closing_transition_at_seconds": 25.05,
+    "caption_readability_and_framing": "passed",
+    "opening_and_closing_braces_retained": "passed",
+    "scope": "Visualization and media checks only"
+  }
+}
