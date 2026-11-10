@@ -129,7 +129,7 @@ export function header(prefix, active = '', lang = 'en') {
 export function footer(site, prefix) {
   const letters = [...'KIMCHISTAN'].map((letter, i) => `<span style="--i:${i}">${letter}</span>`).join('');
   return `<footer class="site-footer"><div class="flag-stripes" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div><div class="container">
-    <div class="footer-top"><a class="brand" href="${prefix}index.html">${brandMark}<span>KIMCHISTAN<span class="brand-subtitle">STUDIO</span></span></a><p>${t('Games, software, AI agents, videos<br>and lettuce. Made in South Korea.', '게임, 소프트웨어, AI 에이전트, 영상<br>그리고 상추. 대한민국에서 만듭니다.')}</p></div>
+    <div class="footer-top"><a class="brand" href="${prefix}index.html">${brandMark}<span>KIMCHISTAN<span class="brand-subtitle">STUDIO</span></span></a><p>${t('Games, software, AI agents and videos,<br>made in South Korea. Plus fresh lettuce.', '게임, 소프트웨어, AI 에이전트, 영상을<br>대한민국에서 만듭니다. 신선한 상추도 함께.')}</p></div>
     <div class="footer-details"><div class="company-legal">
       <p class="legal-name">${e(site.legalName)}</p><p lang="ko">${e(site.legalNameKo)}</p>
       <address><span lang="en">${e(site.address.en)}</span><span lang="ko">${e(site.address.ko)}</span></address>

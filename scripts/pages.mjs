@@ -22,9 +22,9 @@ export function homePage(site, games, notices) {
     <div class="hero-bg" aria-hidden="true"><span class="blob blob-1"></span><span class="blob blob-2"></span><span class="blob blob-3"></span></div>
     <div class="container hero-inner">
       <div class="hero-topline"><p class="kicker kicker-live"><span class="live-dot" aria-hidden="true"></span>${t('Independent creative studio', '독립 크리에이티브 스튜디오')}</p><p class="hero-clock">${t('Goyang, KR', '대한민국 고양')} · <span data-clock>KST</span></p></div>
-      <h1 class="hero-title"><span class="sr-only">${t('KIMCHISTAN STUDIO makes games, software, AI agents and videos, and grows lettuce.', '김치스탄 스튜디오는 게임, 소프트웨어, AI 에이전트, 영상을 만들고 상추를 키웁니다.')}</span><span class="hero-title-visual" aria-hidden="true"><span class="locale" lang="en"><span class="ht-line">WE <span class="verb"><span class="verb-make">MAKE</span><span class="verb-grow">GROW</span></span></span><span class="ht-line">${rotator('en')}</span></span><span class="locale" lang="ko"><span class="ht-line">${rotator('ko')}</span><span class="ht-line"><span class="verb"><span class="verb-make">만듭니다</span><span class="verb-grow">키웁니다</span></span></span></span></span></h1>
+      <h1 class="hero-title"><span class="sr-only">${t('KIMCHISTAN STUDIO makes games, software, AI agents and videos, and distributes lettuce.', '김치스탄 스튜디오는 게임, 소프트웨어, AI 에이전트, 영상을 만들고 상추를 유통합니다.')}</span><span class="hero-title-visual" aria-hidden="true"><span class="locale" lang="en"><span class="ht-line">WE <span class="verb"><span class="verb-make">MAKE</span><span class="verb-swap">SHIP</span></span></span><span class="ht-line">${rotator('en')}</span></span><span class="locale" lang="ko"><span class="ht-line">${rotator('ko')}</span><span class="ht-line"><span class="verb"><span class="verb-make">만듭니다</span><span class="verb-swap">유통합니다</span></span></span></span></span></h1>
       <div class="hero-lower">
-        <p class="hero-description">${t('KIMCHISTAN STUDIO is a small, independent studio in Goyang, South Korea. We build original games, custom software and AI agents, make videos — and grow lettuce in our smart farm. Yes, really.', '김치스탄 스튜디오는 경기도 고양시의 작은 독립 스튜디오입니다. 오리지널 게임과 맞춤형 소프트웨어, AI 에이전트를 만들고, 영상을 제작하며, 스마트팜에서 상추를 키웁니다. 정말이에요.')}</p>
+        <p class="hero-description">${t('KIMCHISTAN STUDIO is a small, independent studio in Goyang, South Korea. We build original games, custom software and AI agents, make videos — and distribute fresh smart-farm lettuce. Yes, really.', '김치스탄 스튜디오는 경기도 고양시의 작은 독립 스튜디오입니다. 오리지널 게임과 맞춤형 소프트웨어, AI 에이전트를 만들고, 영상을 제작하며, 신선한 스마트팜 상추를 유통합니다. 정말이에요.')}</p>
         <div class="hero-actions"><a class="button button-primary" href="#services">${t('See today’s menu', '오늘의 메뉴 보기')}${arrow}</a><a class="button button-ghost" href="#contact">${t('Start a project', '프로젝트 문의')}${arrow}</a></div>
       </div>
       <div class="sticker-board">
@@ -42,7 +42,7 @@ export function homePage(site, games, notices) {
   <div class="tapes" aria-hidden="true">${tape('tape-a', crafts.map((craft) => craft.word[0]))}${tape('tape-b', crafts.map((craft) => craft.word[1]))}<span class="tapes-badge">${badge()}</span></div>
 
   <section class="menu-section section" id="services"><div class="container">
-    <div class="section-top">${kicker(t('Menu', '메뉴'), t('One studio, five crafts', '하나의 스튜디오, 다섯 가지 일'))}<h2 class="display">${t('On the menu <em>today.</em>', '오늘의 <em>메뉴.</em>')}</h2><p class="section-description">${t('Pick one dish or order the full course. Everything comes from the same small kitchen in Goyang.', '한 가지만 골라도, 코스로 주문해도 좋아요. 모두 고양의 작은 주방에서 나옵니다.')}</p></div>
+    <div class="section-top">${kicker(t('Menu', '메뉴'), t('One studio, five crafts', '하나의 스튜디오, 다섯 가지 일'))}<h2 class="display">${t('On the menu <em>today.</em>', '오늘의 <em>메뉴.</em>')}</h2><p class="section-description">${t('Pick one dish or order the full course. Everything is served by the same small team in Goyang.', '한 가지만 골라도, 코스로 주문해도 좋아요. 모두 고양의 작은 팀이 정성껏 내어 드립니다.')}</p></div>
     <div class="menu-grid">
       <a class="menu-tile tile-games" href="games/" data-tilt data-reveal><span class="tile-no">01</span><h3 class="tile-title">${t('Games', '게임')}</h3><p>${t('Original worlds to explore, build and get lost in.', '탐험하고, 짓고, 빠져드는 오리지널 세계.')}</p>
         <span class="card-fan" aria-hidden="true">${covers.map((src) => `<img src="${e(src)}" alt="" width="400" height="250" loading="lazy">`).join('')}</span>
@@ -56,7 +56,7 @@ export function homePage(site, games, notices) {
       <a class="menu-tile tile-videos" href="#videos" data-tilt data-reveal><span class="tile-no">04</span><h3 class="tile-title">${t('Videos', '영상')}</h3><p>${t('3D animation, explainers, trailers and cinematics.', '3D 애니메이션, 설명 영상, 트레일러와 시네마틱.')}</p>
         <span class="mini-viewfinder" aria-hidden="true"><span class="bars"></span><span class="rec">REC</span><span class="tc" data-timecode>00:00:00:00</span><span class="play"></span></span>
         <span class="tile-go">${t('Roll camera', '촬영 시작')}${arrow}</span></a>
-      <a class="menu-tile tile-lettuce" href="#lettuce" data-tilt data-reveal><span class="tile-no">05</span><h3 class="tile-title">${t('Lettuce', '상추')}</h3><p>${t('Crisp, fresh lettuce from our smart farm. Truly.', '스마트팜에서 키운 아삭하고 신선한 상추. 진짜로요.')}</p>
+      <a class="menu-tile tile-lettuce" href="#lettuce" data-tilt data-reveal><span class="tile-no">05</span><h3 class="tile-title">${t('Lettuce', '상추')}</h3><p>${t('Crisp, fresh smart-farm lettuce, distributed by us. Truly.', '스마트팜에서 자란 아삭하고 신선한 상추를 유통합니다. 진짜로요.')}</p>
         <span class="tile-lettuce-art" aria-hidden="true">${lettuceArt('lettuce-art')}<span class="price-tag">${t('FRESH!', '신선!')}</span></span>
         <span class="tile-go">${t('Get some', '주문하기')}${arrow}</span></a>
     </div>
@@ -86,12 +86,12 @@ export function homePage(site, games, notices) {
       <span class="leaf-fall" data-leaf-fall aria-hidden="true"></span>${leafTemplate}
       <span class="tap-hint" aria-hidden="true">${t('tap to pick a leaf', '눌러서 잎 따기')}</span>
     </div>
-    <div class="lettuce-copy">${kicker('05', t('Lettuce', '상추'))}<h2 class="display">${t('Yes, we also grow <em>lettuce.</em>', '네, 상추도 <em>키웁니다.</em>')}</h2>
-      <p class="lead">${t('Between builds, we tend a smart farm, where light, water and temperature are carefully controlled. The result is crisp, fresh lettuce. It’s the one thing we ship that’s meant to be green.', '빌드와 빌드 사이, 우리는 빛과 물, 온도를 세심하게 관리하는 스마트팜을 돌봅니다. 그 결과는 아삭하고 신선한 상추. 우리가 출시하는 것 중 유일하게 초록색이어야 하는 제품이죠.')}</p>
+    <div class="lettuce-copy">${kicker('05', t('Lettuce', '상추'))}<h2 class="display">${t('Yes, we also distribute <em>lettuce.</em>', '네, 상추도 <em>유통합니다.</em>')}</h2>
+      <p class="lead">${t('Alongside games and software, we distribute lettuce: crisp, fresh leaves grown in smart farms, where light, water and temperature are carefully controlled. It’s the one thing we ship that’s meant to be green.', '게임과 소프트웨어를 만드는 한편, 우리는 상추를 유통합니다. 빛과 물, 온도를 세심하게 관리하는 스마트팜에서 자란 아삭하고 신선한 상추. 우리가 출시하는 것 중 유일하게 초록색이어야 하는 제품이죠.')}</p>
       <div class="release-notes"><p class="rn-title"><code>lettuce v1.0</code> — ${t('release notes', '릴리스 노트')}</p><ul>
-        <li><b>+</b>${t('Grown in our smart farm', '우리 스마트팜에서 재배')}</li>
+        <li><b>+</b>${t('Smart-farm grown, distributed by us', '스마트팜 재배, 김치스탄 유통')}</li>
         <li><b>+</b>${t('Crisp, fresh leaves, ready for ssam', '쌈 싸 먹기 좋은 아삭하고 신선한 잎')}</li>
-        <li><b>+</b>${t('Ask us about quantities and availability', '수량과 수확 일정은 문의해 주세요')}</li>
+        <li><b>+</b>${t('Ask us about quantities and availability', '수량과 공급 일정은 문의해 주세요')}</li>
       </ul><p class="rn-meta">${t('Leaves picked on this page', '이 페이지에서 딴 잎')}: <output data-harvest-count>0</output></p></div>
       <div class="actions">${inquiryLink(site, 'button button-primary', 'Order fresh lettuce', '상추 주문 문의', 'lettuce')}</div>
     </div>
@@ -101,7 +101,7 @@ export function homePage(site, games, notices) {
     <figure class="flag-figure" data-reveal><span class="flag-pole" aria-hidden="true"></span>${flag}<figcaption>${t('The flag of Kimchistan: five crafts, one star.', '김치스탄의 깃발: 다섯 가지 일, 하나의 별.')}</figcaption></figure>
     <div class="studio-copy">${kicker(t('About', '소개'), t('A little about us', '우리를 소개합니다'))}<h2 class="display">${t('Welcome to <em>Kimchistan.</em>', '김치스탄에 <em>어서 오세요.</em>')}</h2>
       <p class="studio-intro">${t('We’re KIMCHISTAN STUDIO, an independent creative studio based in Goyang, South Korea.', '김치스탄 스튜디오는 경기도 고양시에 자리한 독립 크리에이티브 스튜디오입니다.')}</p>
-      <p>${t('Five crafts might sound like a lot. To us it’s one habit: make real, useful things with care for the people on the other side — of the screen, or of the salad bowl.', '다섯 가지 일이 많아 보일 수도 있지만, 우리에게는 하나의 습관입니다. 화면 너머의 사람, 그리고 식탁 앞의 사람을 생각하며 진짜 쓸모 있는 것을 정성껏 만드는 것.')}</p>
+      <p>${t('Five crafts might sound like a lot. To us it’s one habit: bring people real, useful things, with care for whoever is on the other side — of the screen, or of the salad bowl.', '다섯 가지 일이 많아 보일 수도 있지만, 우리에게는 하나의 습관입니다. 화면 너머의 사람, 그리고 식탁 앞의 사람을 생각하며 진짜 쓸모 있는 것을 정성껏 전하는 것.')}</p>
       <dl class="fact-sheet">
         <div><dt>${t('Capital', '수도')}</dt><dd>${t('Goyang, South Korea', '대한민국 경기도 고양시')}</dd></div>
         <div><dt>${t('Local time', '현지 시각')}</dt><dd><span data-clock>KST</span></dd></div>

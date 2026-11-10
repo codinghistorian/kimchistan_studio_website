@@ -105,10 +105,10 @@ html[lang=ko] .hero-title{font-size:clamp(48px,9vw,136px);letter-spacing:-.05em;
 .verb{position:relative;display:inline-block}
 .verb-make{position:relative;display:inline-block;transition:opacity .3s}
 .verb-make::after{content:'';position:absolute;left:-5%;right:-5%;top:46%;height:.13em;border-radius:.1em;background:var(--kimchi);transform:scaleX(0) rotate(-5deg);transform-origin:left center;transition:transform .35s ease}
-.verb-grow{position:absolute;left:30%;top:0;color:var(--lime);white-space:nowrap;transform:translate(.1em,-.62em) rotate(-9deg) scale(0);transform-origin:10% 90%;transition:transform .5s var(--pop) .15s;text-shadow:.04em .04em 0 var(--ink)}
+.verb-swap{position:absolute;left:30%;top:0;color:var(--lime);white-space:nowrap;transform:translate(.1em,-.62em) rotate(-9deg) scale(0);transform-origin:10% 90%;transition:transform .5s var(--pop) .15s;text-shadow:.04em .04em 0 var(--ink)}
 .hero[data-word=lettuce] .verb-make{opacity:.5}.hero[data-word=lettuce] .verb-make::after{transform:scaleX(1) rotate(-5deg)}
-.hero[data-word=lettuce] .verb-grow{transform:translate(.1em,-.62em) rotate(-9deg) scale(.58)}
-html[lang=ko] .verb-grow{left:100%;transform:translate(.12em,.12em) rotate(-8deg) scale(0);transform-origin:0 50%}html[lang=ko] .hero[data-word=lettuce] .verb-grow{transform:translate(.12em,.12em) rotate(-8deg) scale(.62)}
+.hero[data-word=lettuce] .verb-swap{transform:translate(.1em,-.62em) rotate(-9deg) scale(.58)}
+html[lang=ko] .verb-swap{left:100%;transform:translate(.12em,.12em) rotate(-8deg) scale(0);transform-origin:0 50%}html[lang=ko] .hero[data-word=lettuce] .verb-swap{transform:translate(.12em,.12em) rotate(-8deg) scale(.62)}
 .rotator{position:relative;display:inline-block;vertical-align:top;height:1.08em;padding:0 .14em;margin-left:-.06em;border-radius:.12em;background:var(--word-c);color:var(--ink);box-shadow:.06em .06em 0 var(--cream);transform:rotate(-2deg);overflow:hidden;transition:width .55s var(--pop)}
 .rotator-word{display:block;white-space:nowrap;line-height:1.1}
 html:not(.js) .rotator-word:not(.is-active){display:none}

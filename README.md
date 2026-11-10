@@ -2,7 +2,7 @@
 
 The English/Korean creative technology studio website for **KIMCHISTANSTUDIO Inc. (주식회사 김치스탄스튜디오)**, published at **kimchistan.kr** through GitHub Pages.
 
-The bilingual studio website presents the studio's five crafts — **games, software, AI agents, videos, and smart-farm lettuce** — as a menu-themed homepage, with dedicated **Games**, **Software & AI**, and **Orbit Foundry** pages and a **전자공고** archive with permanent notice pages, document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript, with no runtime dependencies, tracking scripts, forms, or backend services. Fonts and optimized game images are self-hosted. English is the default for marketing pages; the EN / KO switch remembers the visitor’s choice across pages. Notice documents remain Korean.
+The bilingual studio website presents the studio's five lines of work — **games, software, AI agents, videos, and smart-farm lettuce distribution** — as a menu-themed homepage, with dedicated **Games**, **Software & AI**, and **Orbit Foundry** pages and a **전자공고** archive with permanent notice pages, document downloads, and print styles. It uses static HTML, CSS, and a little JavaScript, with no runtime dependencies, tracking scripts, forms, or backend services. Fonts and optimized game images are self-hosted. English is the default for marketing pages; the EN / KO switch remembers the visitor’s choice across pages. Notice documents remain Korean.
 
 | Destination | Content |
 | --- | --- |

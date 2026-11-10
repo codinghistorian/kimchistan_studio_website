@@ -104,7 +104,8 @@ test('the homepage presents all five crafts with working anchors and an accessib
   const home = await html('');
   for (const id of ['videos', 'lettuce']) assert.ok(home.includes('id="' + id + '"'), id);
   for (const word of ['GAMES', 'SOFTWARE', 'AI AGENTS', 'VIDEOS', 'LETTUCE', '상추']) assert.ok(home.includes('data-word=') && home.includes(word), word);
-  assert.match(home, /<h1 class="hero-title"><span class="sr-only">.*makes games, software, AI agents and videos, and grows lettuce\./);
+  assert.match(home, /<h1 class="hero-title"><span class="sr-only">.*makes games, software, AI agents and videos, and distributes lettuce\./);
+  for (const claim of ['grow lettuce', 'grows lettuce', 'our smart farm', '상추를 키웁니다', '키웁니다', '재배하']) assert.ok(!home.includes(claim), 'lettuce is distributed, not grown: ' + claim);
   assert.match(home, /class="hero-title-visual" aria-hidden="true"/);
   const services = await html('services/');
   for (const id of ['custom-applications', 'internal-tools', 'ai-agents']) assert.ok(services.includes('id="' + id + '"'), id);
