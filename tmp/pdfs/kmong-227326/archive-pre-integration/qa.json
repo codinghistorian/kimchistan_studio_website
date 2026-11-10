@@ -1,0 +1,80 @@
+{
+  "internal_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227326-proposal.pdf",
+  "attachment_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집홈페이지-예약포장주문시스템-제안서.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227326-submission.txt",
+  "pages": 10,
+  "pdf_bytes": 2149269,
+  "submission_characters": 2233,
+  "submission_utf16_units": 2233,
+  "submission_limit": 3000,
+  "submission_target": 2900,
+  "base_fees_vat_included": [
+    2000000,
+    1200000,
+    2000000,
+    1400000,
+    600000,
+    800000
+  ],
+  "base_total": 8000000,
+  "takeout_option": 2000000,
+  "combined_total": 10000000,
+  "future_pg_conditional_budget_vat_included": [
+    3000000,
+    5000000
+  ],
+  "start_date": "2026-11-13",
+  "end_date": "2026-12-20",
+  "elapsed_calendar_days": 37,
+  "warranty_calendar_days_after_acceptance": 30,
+  "glyphs_checked": 8685,
+  "edge_violations": [],
+  "contact_detail_scan": "passed",
+  "external_annotations": 0,
+  "embedded_files": 0,
+  "source_screenshot_crop": [
+    65,
+    431,
+    2231,
+    1423
+  ],
+  "source_screenshot_sha256": "26bb3fb880706d9a9f41959f8173c60ed0e93bdb9a56aa2102d894b7916de8a1",
+  "attachment_matches_internal_pdf": true,
+  "preserved_source_sha256": {
+    "output/pdf/kimchistan-studio-company-introduction.pdf": "76758b55ba6986dc396eb697f6494cd21d92a7b5ed5aab01b327f2a2dcff567e",
+    "output/pdf/kmong-227317-proposal.pdf": "77a6be9893f3d0f173ab6a7d23d6a2f521f429f4b07ffd9438cc9a90b1967a98",
+    "output/proposals/kmong-227317-submission.txt": "d97af6c8c397982386c7552e9f28b68eaa46d38b9dac57789c8db984c8f8d12a"
+  },
+  "pdf_sha256": "fadfcdfa6ebeacaf615b586da9dd5aef3dd34e3a262905af692ed550052fbfb2",
+  "submission_sha256": "2aeaacb333720c7190a0e45bd223aa7d623135d28044dcca022642df00cbb9b6",
+  "visual_review_complete": true,
+  "visual_review": {
+    "individually_inspected_current_pages": [
+      2,
+      3
+    ],
+    "unchanged_pages_pixel_identical_to_previously_reviewed": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "render_sha256": {
+      "01": "d2a4a80fef29dac7e6f77df1fc50f3784fdfdd329fa7f8a764fed9db600921a3",
+      "02": "d63584e4568f146d6599e6d3afe3cd866063f64d1cd0f5fb0978852f80d639f0",
+      "03": "edacb10f9adc031fa46780f30fae47ebb72022ac3afa37fb211fa7d899c08b74",
+      "04": "3bf3e2a886f417fb65ecc6c3833d6e329438202b25575ca52d2fda26488d0dc7",
+      "05": "1a734a17b6402a307fdb47dd2529ed6e78a282216fdb4a190ef9f7d397d9b5db",
+      "06": "2377650e2b634f02b492777c1332e5fb1fb0a7140db9a66b022ccfed36a3ebda",
+      "07": "33f7dac5042ef6052345e96669a328a2584c9b029e886bc515ed1f0e789429be",
+      "08": "29bc34191c0e64bd6ff5d385f7f8272417257812c373ffc89e923c870d12edf8",
+      "09": "b448100cd242e358d3d2821e65b8e7e5ecce215074152fef38837b43d1592d41",
+      "10": "3b6f9bcaf13bf7861862ea63352a995fef456d704caf2d61e87021ec0aec9443"
+    },
+    "food_photo_scan": "All food image areas replaced by directly composited real stock photographs; UI text, boundaries, and crops visually checked."
+  }
+}

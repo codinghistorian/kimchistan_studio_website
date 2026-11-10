@@ -1,0 +1,61 @@
+{
+  "proposal": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227326-proposal.pdf",
+  "proposal_pages": 10,
+  "presentation_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집예약주문-UIUX콘셉트.pdf",
+  "presentation_pages": 3,
+  "presentation_pptx": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/presentations/고깃집예약주문-UIUX콘셉트.pptx",
+  "asset_bundle": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/고깃집예약주문-목업원본.zip",
+  "image_generation_mode": "UI/device concept with directly composited real stock food photography",
+  "proposal_visual_review_complete": true,
+  "presentation_visual_review_complete": true,
+  "original_proposal_sha256": "3bb5f5140768f67590263cdfe29b26d3d0a020630866a555f0c126a188d5bd26",
+  "concept_pdf_sha256": "c5535f03183c8b058dfadeacca79caf704320f4b1f24744a83e5344f0aa0a3ce",
+  "presentation_visual_review": {
+    "pdf_pages_inspected": [
+      1,
+      2,
+      3
+    ],
+    "final_reimported_pptx_slides_inspected": [
+      1,
+      2,
+      3
+    ],
+    "pdf_render_sha256": {
+      "1": "1ddaf5d250703b642c19325197ff94f8902e7ecd14f7e473d9858da9716586e6",
+      "2": "8aea9024383f7e564060d9c06f5a3fcaa2c5503a786e19c8f35d57c922fef585",
+      "3": "cf6b4eb2a339443c0d770ca8a133ab6cc6b2f2baeb03924c6f190a518c6c2c35"
+    },
+    "pptx_render_sha256": {
+      "1": "5cfe91cddfe3034065517b296745bf3b93bd2d36bd0eb9ee31d44e92f3310e0d",
+      "2": "3e2b2c4eab022a0dfa1acb0930b4e608381478bec6d48a2d1da53de6ad130116",
+      "3": "0365f52cffa36df2691c76ae69d631ce4d3dc3305f1a80eee2b3ba9746dc9b60"
+    },
+    "result": "No clipping, illegible text, misplaced food crops, or visible unwanted image branding."
+  },
+  "presentation_validation_receipt": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/presentations/kmong-227326/validation-stock-v2.json",
+  "asset_bundle_sha256": "400b285bae887bbbbf91f1ed31e5571a0926e3fb421363586fba6a9c5d800f50",
+  "presentation_pptx_sha256": "78bd472cbd2fd52159d46f0c7ed7d965653ddb4862c2a4c94ac3be1c44874d63",
+  "photo_credits": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/photo-credits.txt",
+  "used_stock_photos": [
+    {
+      "author": "tommao wang",
+      "provider": "Unsplash",
+      "file": "grill-tommao-2025.jpg"
+    },
+    {
+      "author": "Kyle Mackie",
+      "provider": "Unsplash",
+      "file": "beef-kyle-mackie.jpg"
+    },
+    {
+      "author": "makafood",
+      "provider": "Pexels",
+      "file": "soup-makafood.jpg"
+    }
+  ],
+  "proposal_sha256": "8b912f0549d9ad7e7407e7dd69f5ae3bd9bade3eb3bce04d02b712ef77a07b8e",
+  "proposal_integration_revision": "Integrated design principles, customer/staff flows, operating rules, quoted design scope, delivery schedule and acceptance criteria; Kmong text aligned.",
+  "proposal_visual_review_record": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/qa.json",
+  "korean_specialist_review_complete": true
+}

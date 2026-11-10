@@ -1,0 +1,9 @@
+00:00.402  blend            | Read blend: "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/prototypes/kmong-227330/precast-assembly.blend"
+/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/prototypes/kmong-227330/audit_blend.py:51: DeprecationWarning: 'TextStrip.frame_final_start' is expected to be removed in Blender 6.0
+  active = [s for s in texts if s.frame_final_start <= frame < s.frame_final_end]
+/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/prototypes/kmong-227330/audit_blend.py:51: DeprecationWarning: 'TextStrip.frame_final_end' is expected to be removed in Blender 6.0
+  active = [s for s in texts if s.frame_final_start <= frame < s.frame_final_end]
+SOURCE_AUDIT_PASSED {"status": "passed", "blender": "5.2.2 LTS", "counts": {"columns": 6, "beams": 7, "hollow_core_slabs": 10}, "slab_mesh_shared": true, "slab_vertices": 212, "columns_touch_foundations": true, "beams_at_bearing_pad_height": true, "slabs_touch_bearing_strips": true, "packed_fonts": [{"name": "Pretendard Regular", "packed_bytes": 2725828}, {"name": "Pretendard SemiBold", "packed_bytes": 2671468}], "external_libraries": 0, "caption_coverage_frames": 900, "camera_cuts": 5, "native_4k_source": true, "shadow_pool_mb": 2048}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:49:19)
+
+Blender quit

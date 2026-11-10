@@ -1,0 +1,93 @@
+{
+  "classification": "Internal verification record; do not attach to the proposal",
+  "checked_on": "2026-11-06",
+  "request": {
+    "url": "https://kmong.com/enterprise/requests/227326",
+    "method": "Read the public brief in the existing Google Chrome UI, including the recommendation and application requirements sections",
+    "title": "고깃집 매장 반응형 홈페이지 및 예약/포장 주문 시스템 구축",
+    "budget_krw": 10000000,
+    "dates": ["2026-11-13", "2026-12-20"],
+    "mandatory_answers": ["기능별 견적", "기본 홈페이지/예약과 포장 옵션 분리", "무상 지원/유지보수", "실적 화면 또는 링크", "인력/상세 일정", "소통 방식", "네이버 운영 권고", "향후 PG 준비/비용", "알림톡 업체/사용료", "서버/도메인 비용"]
+  },
+  "user_confirmed": {
+    "base_vat_included": 8000000,
+    "takeout_option_vat_included": 2000000,
+    "future_pg_conditional_budget_vat_included": [3000000, 5000000],
+    "support_days_after_acceptance": 30,
+    "staffing": "PM/developer plus one web-specialist freelancer joining after contract"
+  },
+  "official_references": [
+    {
+      "url": "https://solapi.com/pricing",
+      "claim": "Direct API standard Alimtalk price is 13 KRW per message excluding VAT; ordinary base API access has no monthly base charge. Extra products and usage conditions may add charges.",
+      "derived_examples_vat_included": {"1000_messages": 14300, "3000_messages": 42900}
+    },
+    {
+      "url": "https://solapi.com/msg",
+      "claim": "Business Kakao channel linkage and approved templates are prerequisites for Alimtalk sending. SMS fallback is separately priced."
+    },
+    {
+      "url": "https://aws.amazon.com/lightsail/pricing/",
+      "claim": "The reference architecture uses a 12 USD/month Linux IPv4 app server and a 30 USD/month standard managed database with encryption. Backup and storage are additional. The proposal's 60,000-100,000 KRW monthly range is our planning estimate, not a fixed AWS bill. The 15 USD standard database lacks encryption and is not the assumed configuration."
+    },
+    {
+      "url": "https://www.tosspayments.com/blog/articles/53711?from=hashtag",
+      "claim": "The recent merchant guide states card review can take up to 10-14 business days after contract completion, with possible delays. Real products, prices, business information, policies and a functioning checkout path are reviewed."
+    },
+    {
+      "url": "https://www.tosspayments.com/blog/articles/35011?from=main",
+      "claim": "A different selling business requires a new merchant contract. One shared website or brand does not establish that two stores can share a merchant account."
+    },
+    {
+      "url": "https://docs.tosspayments.com/guides/v2/payment-window/integration",
+      "claim": "Browser authentication and the success redirect must be followed by server-side validation and approval. The order amount, order identifier and payment identifier must be validated/persisted."
+    },
+    {
+      "url": "https://docs.tosspayments.com/reference/using-api/security-trust",
+      "claim": "Use transaction verification, idempotency and verified status notifications or payment lookup to prevent duplicate and forged completion."
+    },
+    {
+      "url": "https://docs.tosspayments.com/guides/v2/cancel-payment",
+      "claim": "Full and partial cancellations, timing and refund requirements differ by payment method. Sending a cancellation request must not be presented as a completed refund before checking its outcome."
+    },
+    {
+      "url": "https://docs.tosspayments.com/reference/additional",
+      "claim": "Payout services for marketplace sellers involve separate application/contract and seller risk checks; they are outside this direct-merchant baseline."
+    },
+    {
+      "url": "https://www.tosspayments.com/about/fee",
+      "claim": "PG onboarding/annual charges, transaction fees and applicable guarantee conditions must be confirmed under the actual merchant contract. They are not included in our development budget."
+    },
+    {
+      "url": "https://www.portone.io/pricing",
+      "claim": "PortOne is not assumed in the baseline. Its current public free tier is below 50 million KRW monthly net volume; the next tier costs 100,000 KRW/month excluding VAT. Merchant onboarding and card review remain separate."
+    },
+    {
+      "url": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000021495",
+      "claim": "Alcohol smart-order pickup has specific conditions. Alcohol online sales are not treated as automatically included in the food-only payment baseline."
+    }
+  ],
+  "estimates_not_vendor_quotes": {
+    "domain_annual_krw": [20000, 40000],
+    "hosting_monthly_krw": [60000, 100000],
+    "future_pg_person_days": [12, 18],
+    "future_pg_elapsed_development_and_qa_weeks": [3, 4],
+    "future_pg_person_day_basis": {"policy_and_design": [2, 3], "approval_and_full_cancel": [4, 6], "admin_and_recovery": [3, 4], "qa_and_release": [3, 5]},
+    "pg_prerequisite": "Takeout module already delivered; one selling business, one PG, one merchant account; hosted authenticated checkout, domestic card and contracted wallet methods, full cancellation only."
+  },
+  "naver": {
+    "verified_direct_integration_entitlement": false,
+    "recommendation": "Keep Naver Place discovery while centralizing group-room inventory. If keeping Naver Booking, segregate inventory or promptly register/block manually. Do not promise live two-way synchronization without official eligibility verification."
+  },
+  "portfolio": {
+    "company_profile": "output/pdf/kimchistan-studio-company-introduction.pdf",
+    "john": "The source profile says web service built, mobile expansion ongoing. Public songbook search/filter/list screenshot captured through the approved browser UI; only a contact-free pixel crop is embedded.",
+    "agricultural_order_ai": "Started November 2026 and still in development. It is workflow/automation evidence, not a claim of completed restaurant reservations, payment processing or certified Alimtalk integration."
+  },
+  "submission_policy": {
+    "urls_and_direct_contacts_in_client_files": false,
+    "company_name_and_case_names_used": true,
+    "source_url_references": "Retained only in this internal record; client PDF uses provider names and checking date.",
+    "body_format": "Plain text, ASCII hyphen/range separators, no emoji or Unicode arrows."
+  }
+}

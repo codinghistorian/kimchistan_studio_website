@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "pdf_sha256": "b2f05860046f33272485b157a0f3324de75321377c48af6d55191eaa3c119747",
+  "pages": 7,
+  "visual_review": {
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "overlap_clipping_and_korean_glyphs": "passed"
+  },
+  "link_annotations": {
+    "count": 6,
+    "allowed_urls": [
+      "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+    ],
+    "status": "passed"
+  },
+  "qr_pixel_decode": {
+    "method": "macOS Vision VNDetectBarcodesRequest on final rendered PDF page PNGs",
+    "page_3": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "page_4": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "status": "passed"
+  },
+  "submission_consistency": "passed",
+  "forbidden_contact_and_unintended_links": "passed",
+  "pm_review": "P1 corrections confirmed in updated PM report",
+  "gif_previews": {
+    "count": 3,
+    "frames_each": 60,
+    "seconds_each": 6,
+    "infinite_loop": true,
+    "archive": "kmong-227330-motion-previews.zip"
+  },
+  "scope": "Document, link/QR, and visual media checks; excludes customer model engineering validation and commercial approval"
+}

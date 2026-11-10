@@ -1,0 +1,18 @@
+{
+  "reviewer": "/root/outsourcing_pm_review",
+  "review_complete": true,
+  "proposal_sha256": "8b912f0549d9ad7e7407e7dd69f5ae3bd9bade3eb3bce04d02b712ef77a07b8e",
+  "proposal_unchanged": true,
+  "submission_unchanged": true,
+  "report": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/고깃집제안서-외주PM검토.txt",
+  "report_sha256": "e0da8bd854cbefe269242930550132630e8530adbd0d9e60a8b848bc2b575b45",
+  "fatal_findings": 0,
+  "important_findings": 5,
+  "request_source": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/request-brief-browser-verified.txt",
+  "calendar_check": {
+    "inclusive_days": 38,
+    "weekdays_monday_to_friday": 26,
+    "final_release_interval_weekdays": 2
+  },
+  "recommendation": "Suitable for initial proposal/meeting; resolve five operating and delivery assumptions before fixed-price Turnkey contract."
+}

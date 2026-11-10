@@ -1,0 +1,18 @@
+{
+  "browser": "Brave Browser",
+  "url": "https://kmong.com/enterprise/requests/227326",
+  "state": "Proposal composer left open for user review; not submitted",
+  "budget_in_10000_krw": 1000,
+  "duration_days": 37,
+  "tax_invoice_available": true,
+  "body_characters": 2626,
+  "body_exact_match_verified_in_accessibility_state": true,
+  "attachment": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집홈페이지-예약포장주문시스템-제안서.pdf",
+  "attachment_pdf_sha256": "9b078b632a3ff818835b5ad07a1812de8e9c3e93eeeaa14adee899a0f7e13c2b",
+  "attachment_ui_size": "2.1MB",
+  "attachment_preview_pages": 11,
+  "attachment_preview_korean_header_verified": true,
+  "upload_complete_verified": true,
+  "required_acknowledgements": "Left unchecked for user review",
+  "submitted": false
+}

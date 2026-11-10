@@ -1,0 +1,79 @@
+{
+  "status": "passed_document_checks",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227330-submission.txt",
+  "pages": 7,
+  "pdf_bytes": 2555793,
+  "allowed_video_urls": [
+    "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "https://www.youtube.com/watch?v=Ol1iQsFEI5M"
+  ],
+  "uri_annotations": 9,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "clipping_and_overlap": "none observed"
+  },
+  "qr_pixel_decode": {
+    "status": "passed",
+    "method": "macOS Vision on final rendered PNGs",
+    "page_2": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+    "page_3": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "page_4": "https://www.youtube.com/shorts/kOg6ybxZyqs"
+  },
+  "korean_review_items": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12",
+    "K13",
+    "K14"
+  ],
+  "pm_improvements": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "O1"
+  ],
+  "scope": "PDF layout, text, links and QR",
+  "pdf_sha256": "e66dea145aadfaf65322cb6f30283f712b22bcc4e030255b1500271c53e47fba",
+  "submission_sha256": "8e05ba34d51f4e151afd6843751ac2566367fa27f5dd1a4620f15a74dee8c847",
+  "generator": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-playback-guide/source/build_proposal.py",
+  "playback_guidance": {
+    "pdf_entry_points": 6,
+    "submission_links": 3,
+    "wording": "(클릭 시 브라우저에서 재생)",
+    "all_hint_text_within_clickable_video_regions": true,
+    "button_height_points": 44,
+    "hint_font_size_points": 10.5,
+    "qr_scan_instructions": 3,
+    "qr_instruction_font_size_points": 9.5
+  },
+  "uploaded_video": {
+    "provided_url": "https://youtu.be/Ol1iQsFEI5M",
+    "unlisted_status": "reported by user",
+    "remote_playback_qa": "not performed: native Safari computer-use tool unavailable",
+    "playwright_used": false
+  }
+}

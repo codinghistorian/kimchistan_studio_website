@@ -1,0 +1,52 @@
+{
+  "request": "Sequential PM review -> Designer PDF v3 -> Korean-language review -> Designer PDF v4",
+  "started_at": "2026-11-07T10:48:12.062983+09:00",
+  "baseline": {
+    "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v2.pdf",
+    "sha256": "b2f05860046f33272485b157a0f3324de75321377c48af6d55191eaa3c119747"
+  },
+  "stages": [
+    {
+      "order": 1,
+      "agent": "tender_pm_review",
+      "task": "PM review v3",
+      "status": "complete",
+      "completed_at": "2026-11-07T10:52:02.612470+09:00",
+      "report": "output/proposals/kmong-227330-PM-review-v3.txt"
+    },
+    {
+      "order": 2,
+      "agent": "proposal_designer",
+      "task": "Generate proposal PDF v3",
+      "status": "complete",
+      "started_at": "2026-11-07T10:52:02.612470+09:00",
+      "completed_at": "2026-11-07T10:56:33.400407+09:00",
+      "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v3.pdf",
+      "sha256": "e37af2ecc492adb8f1752bf7d0443bc8afe9d2ed2ff7c4c1aeed8378c4cfb896"
+    },
+    {
+      "order": 3,
+      "agent": "korean_language_review",
+      "task": "Review generated v3 Korean copy",
+      "status": "complete",
+      "started_at": "2026-11-07T10:56:33.400407+09:00",
+      "input_pdf_sha256": "e37af2ecc492adb8f1752bf7d0443bc8afe9d2ed2ff7c4c1aeed8378c4cfb896",
+      "completed_at": "2026-11-07T11:03:41.886722+09:00",
+      "report": "output/proposals/kmong-227330-Korean-review-v3.txt",
+      "improvement_items": 14,
+      "replacement_candidates": 47
+    },
+    {
+      "order": 4,
+      "agent": "proposal_designer",
+      "task": "Generate final proposal PDF v4",
+      "status": "complete",
+      "started_at": "2026-11-07T11:03:41.886722+09:00",
+      "completed_at": "2026-11-07T11:10:58.928628+09:00",
+      "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v4.pdf",
+      "sha256": "7daa7a714f201f9c8ad4dbfe5ea045919e206b0c0c340cacd94189f9aff61486"
+    }
+  ],
+  "status": "complete",
+  "completed_at": "2026-11-07T11:10:58.928628+09:00"
+}

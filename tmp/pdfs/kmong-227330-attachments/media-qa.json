@@ -1,0 +1,115 @@
+{
+  "files": [
+    {
+      "file": "01_프리캐스트_조립샘플.mp4",
+      "duration_seconds": 30,
+      "width": 3840,
+      "height": 2160,
+      "fps": 30,
+      "frames": 900,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "bytes": 19116668,
+      "sha256": "cc11e47f16b461b9d244def3de125d686edc5846a7c85cb5aae2f2a6e2b9f799",
+      "full_decode": "passed",
+      "sampled_frame_times_seconds": [
+        0,
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        29.966666666666665
+      ],
+      "contact_sheet": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments/01-contact-sheet.jpg"
+    },
+    {
+      "file": "02_어린이집_실내공간연출.mp4",
+      "duration_seconds": 30,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "frames": 900,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "bytes": 6760704,
+      "sha256": "5a26429d8b0bb482fb006337c7aa73ceb98df9225f25eddf7813c9a67b520a59",
+      "full_decode": "passed",
+      "sampled_frame_times_seconds": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        29.966666666666665
+      ],
+      "contact_sheet": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments/02-contact-sheet.jpg"
+    },
+    {
+      "file": "03_Orbit_Foundry_3D_연출.mp4",
+      "duration_seconds": 12,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "frames": 360,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "bytes": 5439911,
+      "sha256": "ccc644cc521abc76eee63ecc1800b1ba80dc694b35988cd00eca395a27208828",
+      "full_decode": "passed",
+      "sampled_frame_times_seconds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        11.966666666666667
+      ],
+      "contact_sheet": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments/03-contact-sheet.jpg"
+    }
+  ],
+  "mp4_count": 3,
+  "total_mp4_bytes": 31317283,
+  "visual_review": "passed: contact sheets, first and final frames, sampled scene transitions",
+  "external_addresses_or_promotional_endcards_in_reviewed_frames": 0,
+  "excerpts": [
+    {
+      "file": "02_어린이집_실내공간연출.mp4",
+      "source_start_seconds": 14,
+      "source_end_seconds": 44,
+      "source_resolution_preserved": true
+    },
+    {
+      "file": "03_Orbit_Foundry_3D_연출.mp4",
+      "source_start_seconds": 4,
+      "source_end_seconds": 16,
+      "source_resolution_preserved": true
+    }
+  ],
+  "sample_source": "output/prototypes/kmong-227330-v2/precast-assembly-30s-4k.mp4 (unchanged copy)",
+  "reviewed_at": "2026-11-07T13:16:43.684805+09:00"
+}

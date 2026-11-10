@@ -1,0 +1,61 @@
+{
+  "pages": 11,
+  "pdf_sha256": "bc2fa5b3779f1e56946ba9c85e03377abab34446336efe159c196ed3f79dab0f",
+  "texts": [
+    "KIMCHISTAN STUDIO\n회사소개 / COMPANY\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n01\n게임과 서비스를 만들고,\n일의 흐름을 연결합니다.\n웹·모바일 서비스, AI 업무 자동화, Web3와 게임 개발 경험을\n하나의 크리에이티브 테크 스튜디오에 담았습니다.\n함께 만들 수 있는 것\n웹·모바일 서비스\nReact·React Native, Django와 JavaScript·TypeScript를\n활용한 맞춤형 서비스 개발\nAI 업무 자동화\n기존 도구와 AI를 연결하는 업무 흐름 설계, Linux 환경\n연동과 카카오 기반 주문 관리\nWeb3·보안 분석\nRust·Solidity, Ethereum·Solana, 블록체인과 스마트 컨\n트랙트 개발 및 경쟁형 보안 감사\n게임·3D 콘텐츠\nGodot·LÖVE·Bevy, Lua·Rust, Blender를 활용한 게임과\n프로토타입, 3D 소품 제작\n공개 결과로 확인하는 보안 감사 경험\nCode4rena: 유효 High 2건 · Medium 3건\nRujira 13위 · Jupiter Lend 22위 · Olas 53위\n문제와 도구를 이해하고, 필요한 범위를 함께 정합니다.\n개발 과정과 결과를 공유하며 실제 도입과 운영을 돕습니다.\n이메일\nkimmchistan@gmail.com\n전화\n031-911-8190\n웹사이트\nhttps://kimchistan.kr/\n주소\n경기도 고양시 일산서구 중앙로 1493 상가동 2094호\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n02\nSELECTED WORK\nJohn 4:24\n웹 서비스 및 React Native 모바일 앱\n진행 기간\n2026.04 - 진행 중\n상태\n진행 중\n참여도\n100%\nWEB + MOBILE\n예배 준비와 팀 협업을 연결하는 서비스 구성\n곡 관리\n가사·코드·조옮김\n예배 기획\n큐시트·콘티\n팀 협업\n역할·소통\n모바일 확장\nReact Native\n프로젝트 소개\n곡 관리, 가사·코드·조옮김, 예배 큐시트·콘티와 팀 협업을 지원하는 웹 서비스를 구축했습니다. 기존 웹 서비스\n를 바탕으로 React Native 기반 Android·iOS 앱을 개발하고 있습니다.\n담당 역할\n 웹 서비스 구축·모바일 앱 개발\n관련 기술\n React Native / Android / iOS\n2026년 4월 착수한 프로젝트로, 중단 기간을 거쳐 현재 모바일 확장을 진행 중입니다. 모바일 앱은 2027년 출시를 목표로\n 합니다.\n공개 프로젝트 / 결과\nhttps://john4-24.com/\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n03\nSELECTED WORK\n농산물 주문 관리 AI\n카카오 대화 기반 업무 자동화\n진행 기간\n2026.11 - 진행 중\n상태\n진행 중\n참여도\n100%\nORDER WORKFLOW\nLinux·카카오·AI 기반 업무 흐름 설계\n01  주문 접수\n02  농가 재고·배송 확인\n03  고객에게 입금 계좌 안내\n04  농가에 수령 정보 전달\n프로젝트 소개\n농가가 여러 고객과 개별 대화하는 부담을 줄이기 위한 주문 관리 AI 프로젝트입니다. 주문 접수부터 재고·배송\n확인과 거래 정보 전달까지 하나의 AI 대화 흐름으로 연결합니다.\n담당 역할\n 업무 흐름 설계·AI 자동화 개발\n관련 기술\n Linux / 카카오 연동 / AI 업무 자동화\n2026년 11월 착수했습니다. Linux 환경에서 카카오 대화를 연동하여 농가와 고객 사이에 필요한 업무를 자동화하는 방향\n으로 개발하고 있습니다.\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n04\nSELECTED WORK\nCode4rena Security Research\nOlas·Jupiter Lend 경쟁형 스마트 컨트랙트 보안 감사\n진행 기간\n2026.01 - 2026.03\n상태\n완료\n참여도\n100%\nVALIDATED MEDIUM FINDINGS\nCode4rena 공개 경쟁형 감사 결과\nJupiter Lend\n#22\n유효 Medium 1건\nOlas\n#53\n유효 Medium 1건\n프로젝트 소개\nCode4rena 경쟁형 감사 대회에 참가하여 Olas와 Jupiter Lend 코드베이스를 분석했습니다. 공개 프로필\nkimchiwarrior 기준 두 대회에서 Medium 등급 유효 취약점이 각 1건 인정되었습니다.\n담당 역할\n 스마트 컨트랙트 보안 분석·취약점 보고\n관련 기술\n 스마트 컨트랙트 / 보안 분석 / 경쟁형 감사\n공개 결과: Jupiter Lend 22위, Olas 53위. 이 페이지의 기간은 Olas·Jupiter Lend 감사 참여 이력을 기준으로 정리했습니\n다. 본인 보안 분석 및 보고 작업을 소개합니다.\n공개 프로젝트 / 결과\nhttps://code4rena.com/@kimchiwarrior\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n05\nSELECTED WORK\nOrbit Foundry\n공장·증분 게임 및 브라우저 프로토타입\n진행 기간\n2026.09 - 진행 중\n상태\n진행 중\n참여도\n100%\n프로젝트 소개\n별 주위에 공장을 건설하고 생산 시스템을 확장하는 공장·증분 게임입니다. 생산 배치, 자동화와 리포지 성장을\n 중심으로 게임 시스템과 사용성을 구현했습니다.\n담당 역할\n 게임 기획·개발\n관련 기술\n LÖVE / Lua / HTML5\n2026년 9월 PC 브라우저 프로토타입을 공개했습니다. Steam 페이지를 공개했으며 정식 게임을 개발하고 있습니다.\n공개 프로젝트 / 결과\nhttps://kimchistan.itch.io/orbit-foundry\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n06\nSELECTED WORK\nKorean Kindergarten\n1인칭 어린이집 3D 시뮬레이션\n진행 기간\n2026.10 - 2026.10\n상태\n완료\n참여도\n100%\n프로젝트 소개\n한국 가정 어린이집을 1인칭으로 탐험하는 3D 시뮬레이션입니다. 실내 공간을 둘러보고 장난감과 생활 소품을\n 집거나 배치하는 상호작용을 구현했습니다.\n담당 역할\n 게임·실내 공간·상호작용 개발\n관련 기술\n Godot / Blender / HTML5 / Windows / macOS\n브라우저·Windows·macOS 버전 제작을 완료하고 2026년 10월 공개했습니다. Game Gauntlet SIM Jam에 출품했습니다.\n공개 프로젝트 / 결과\nhttps://kimchistan.itch.io/korean-kindergarten\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n07\nSELECTED WORK\nGoblin Scrap Co.\n자동화·증분 시뮬레이션 게임\n진행 기간\n2026.09 - 2026.10\n상태\n완료\n참여도\n100%\n프로젝트 소개\n고블린 동료를 고용하고 고철 처리를 자동화하여 작업장을 확장하는 게임입니다. 고용, 설비 업그레이드, 영구\n연구와 자동 저장 등 성장 시스템을 구현했습니다.\n담당 역할\n 게임 기획·개발\n관련 기술\n LÖVE / Lua / HTML5\n2026년 9월 공개하고 10월까지 업데이트했습니다. 브라우저 게임 개발을 완료했습니다.\n공개 프로젝트 / 결과\nhttps://kimchistan.itch.io/goblin-scrap-co\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n08\nSELECTED WORK\nDaycare & Everyday Interiors\n무료 CC0 3D 소품 360개 에셋 팩\n진행 기간\n2026.10 - 2026.10\n상태\n완료\n참여도\n100%\n프로젝트 소개\n한국 가정 어린이집과 일상 실내 공간에 활용할 수 있는 가구, 장난감과 생활용품 등 3D 소품 360개를 제작했습\n니다. GLB와 편집 가능한 Blender 형식으로 공개했습니다.\n담당 역할\n 3D 소품 제작·GLB/Blender 배포\n관련 기술\n Blender / GLB / glTF / CC0\n2026년 10월 무료 CC0 에셋 팩으로 배포했습니다. 에셋별 메타데이터, 한·영 인덱스와 가져오기 안내를 포함하고 GLB를\n Godot에서 확인했습니다.\n공개 프로젝트 / 결과\nhttps://kimchistan.itch.io/daycare-everyday-interiors-240\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n09\nSELECTED WORK\nSecrets of the Tomb\nGBJAM 14 협업 프로젝트\n진행 기간\n2026.09 - 2026.09\n상태\n완료\n참여도\n50%\n프로젝트 소개\n무덤을 탐험하며 보물을 찾고 탈출하는 게임보이 스타일 퍼즐 게임입니다. GBJAM 14 참가를 위해\nPoigratZashel과 공동 제작했습니다.\n담당 역할\n 코드·레벨 디자인·라이팅\n관련 기술\n 브라우저 게임 / 퍼즐 / 게임보이 스타일\n김치스탄 스튜디오는 코드, 레벨 디자인과 라이팅을 담당했습니다. PoigratZashel은 아트·음악과 레벨 디자인을 담당했으\n며, 공동 프로젝트 참여도는 50%입니다.\n공개 프로젝트 / 결과\nhttps://poigratzashel.itch.io/secrets-of-the-tomb\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n10\nSELECTED WORK\nStone by Stone\nLudum Dare 60 Jam 협업 프로젝트\n진행 기간\n2026.10 - 2026.10\n상태\n완료\n참여도\n50%\n프로젝트 소개\n여러 장치를 활용해 피라미드를 건설하는 퍼즐 게임입니다. Ludum Dare 60 Jam 참가를 위해 PoigratZashel과\n공동 제작했습니다.\n담당 역할\n 코드·레벨 디자인\n관련 기술\n Godot / HTML5 / 2D 퍼즐\n김치스탄 스튜디오는 코드와 레벨 디자인을 담당했습니다. PoigratZashel은 아트·음악과 레벨 디자인을 담당했으며, 공동\n 프로젝트 참여도는 50%입니다.\n공개 프로젝트 / 결과\nhttps://poigratzashel.itch.io/stone-by-stone\n",
+    "KIMCHISTAN STUDIO\n프로젝트 / PORTFOLIO\n주식회사 김치스탄스튜디오  |  대한민국 경기도 고양시\n11\nSELECTED WORK\nAnimal Fighters Club\n동물 캐릭터 아레나 대전 프로토타입\n진행 기간\n2026.05 - 2026.10\n상태\n프로토타입 완료\n참여도\n100%\n프로젝트 소개\n동물 캐릭터가 등장하는 아레나 대전 브라우저 프로토타입입니다. 싱글 플레이와 로컬 1대1 대전, 약·강·특수\n공격과 콤보, 음식 아이템을 구현했습니다.\n담당 역할\n 게임 기획·개발\n관련 기술\n Bevy Engine / Rust / HTML5\n키보드와 컨트롤러 입력을 지원합니다. 2026년 5월 공개 후 업데이트를 진행하고 10월까지 공개 페이지를 정비했습니다.\n 프로토타입 제작을 완료했습니다.\n공개 프로젝트 / 결과\nhttps://kimchistan.itch.io/afc\n"
+  ],
+  "links": [
+    [
+      "mailto:kimmchistan@gmail.com",
+      "tel:+82319118190",
+      "https://kimchistan.kr/"
+    ],
+    [
+      "https://john4-24.com/"
+    ],
+    [],
+    [
+      "https://code4rena.com/@kimchiwarrior"
+    ],
+    [
+      "https://kimchistan.itch.io/orbit-foundry"
+    ],
+    [
+      "https://kimchistan.itch.io/korean-kindergarten"
+    ],
+    [
+      "https://kimchistan.itch.io/goblin-scrap-co"
+    ],
+    [
+      "https://kimchistan.itch.io/daycare-everyday-interiors-240"
+    ],
+    [
+      "https://poigratzashel.itch.io/secrets-of-the-tomb"
+    ],
+    [
+      "https://poigratzashel.itch.io/stone-by-stone"
+    ],
+    [
+      "https://kimchistan.itch.io/afc"
+    ]
+  ],
+  "afc_images": [
+    {
+      "size": [
+        2048,
+        1128
+      ],
+      "sha256": "1b76881ce2c1813caa8729400e35929b7500baa75bdc03335f72eaef821af450"
+    }
+  ]
+}

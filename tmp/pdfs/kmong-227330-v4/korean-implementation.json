@@ -1,0 +1,779 @@
+{
+  "review_file": "tmp/pdfs/kmong-227330-v4/korean-replacements.json",
+  "review_sha256": "7cf9e94774f4fc254519723229624ceed4753e0659efe315a5b13e89f63bf45f",
+  "reviewed_v3_pdf_sha256": "e37af2ecc492adb8f1752bf7d0443bc8afe9d2ed2ff7c4c1aeed8378c4cfb896",
+  "items_adopted": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12",
+    "K13",
+    "K14"
+  ],
+  "candidate_count": 47,
+  "candidates": [
+    {
+      "id": "K01",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "전체 관계  →  부재 이동  →  접점 확대  →  전체 회수",
+      "new": "전체 구도  →  부재 이동  →  접점 확대  →  전체 다시 보기",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K02",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "현장 관계자와 잠재 고객이 부재 관계와 조립 순서를 이해하고,<br/>영업·고객 제안에 활용할 수 있는 3D 설명 영상을 제안합니다.",
+      "new": "현장 관계자와 잠재 고객에게 부재 간 관계와 조립 순서를 설명하고,<br/>영업·고객 제안 자료로 활용할 수 있는 3D 영상을 제안합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K02",
+      "replacement": 2,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "현장 관계자는 부재 관계와 조립 순서를, 잠재 고객은 전체 구조가 구성되는 흐름을 이해하도록 설명하겠습니다.",
+      "new": "현장 관계자에게는 부재 간 관계와 조립 순서를, 잠재 고객에게는 전체 구조가 구성되는 과정을 설명하겠습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K03",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "③ 공정명·안착 관계·생략 단계의 자막·강조",
+      "new": "③ 자막·강조로 알리는 공정명·안착 관계·생략 단계",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K03",
+      "replacement": 2,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "① 기둥·보·슬래브가 놓이는 순서 ② 전체 구도와 받침부 근접 시점의 연결 ③ 공정명·안착 관계·생략 단계를 알리는 자막·강조 표현입니다.",
+      "new": "① 기둥·보·슬래브가 놓이는 순서\n② 전체 구도와 받침부 근접 시점의 연결\n③ 공정명·안착 관계·생략 단계를 알리는 자막과 강조 표시",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K04",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "실제 모델과 확인 자료로 확장",
+      "new": "실제 모델과 발주처 자료를 본편에 반영",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K04",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "본편은 실제 부재 구성과 발주처가 확인한 접합 상세·공정 설명으로 확장합니다. 접합·그라우팅·양생·지지 해체는 자료에 맞춰 표현 범위를 정합니다.",
+      "new": "본편에는 실제 부재 구성과 발주처가 확인한 접합 상세·공정 설명을 반영합니다. 접합·그라우팅·양생·지지 해체는 해당 자료에 따라 표현 범위를 정합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K04",
+      "replacement": 3,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "본편은 실제 모델과 발주처가 확인한 접합 상세·공정 설명으로 확장합니다.",
+      "new": "본편에는 실제 모델과 발주처가 확인한 접합 상세·공정 설명을 반영합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K05",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "일반화한 배치 개념이며 구조 검토와 시공 절차 승인 범위는 포함하지 않습니다.",
+      "new": "일반적인 부재 배치를 설명하는 개념 샘플이며, 구조 검토나 시공 절차 승인용은 아닙니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K05",
+      "replacement": 2,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "샘플은 일반화한 배치 개념이며 구조 검토나 시공 절차 승인용은 아닙니다.",
+      "new": "샘플은 일반적인 부재 배치를 설명하는 개념 영상이며, 구조 검토나 시공 절차 승인용은 아닙니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K06",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "공간을 이해시키는 관찰 시점",
+      "new": "공간 관계가 드러나는 카메라 구도",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K06",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "설명이 필요한 지점으로 자연스럽게 시선을 연결하겠습니다.",
+      "new": "설명이 필요한 지점으로 시선을 자연스럽게 이끌겠습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K06",
+      "replacement": 3,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "기계형 오브젝트와 전체-상세 시점",
+      "new": "기계형 3D 모델과 전체·상세 구도",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K06",
+      "replacement": 4,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "기계형 오브젝트의 재질·부품 표현과 시점 구성 경험을<br/>부재 식별, 접합부 가독성, 전체-상세 전환에 적용하겠습니다.",
+      "new": "기계형 3D 모델의 재질·부품 표현과 구도 구성 경험을<br/>부재 식별, 접합부 가독성, 전체 화면과 상세 화면의 전환에 적용하겠습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K06",
+      "replacement": 5,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "기계형 오브젝트의 부품·재질 표현과 전체/상세 시점 구성 경험을 본 과업에 적용하겠습니다.",
+      "new": "기계형 3D 모델의 부품·재질 표현과 전체·상세 구도 구성 경험을 본 과업에 적용하겠습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K07",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "Korean Kindergarten  |  자체 3D 시뮬레이션의 실제 공간을 시네마틱으로 구성했습니다.",
+      "new": "Korean Kindergarten  |  자체 3D 시뮬레이션 속 실내 공간을 시네마틱 영상으로 구성했습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K07",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "Orbit Foundry - 3D 개발 시네마틱  |  자체 게임의 영상과 현재 개발 상세 화면입니다.",
+      "new": "Orbit Foundry  |  개발 중인 3D 게임의 시네마틱과 현재 개발 상세 화면입니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K07",
+      "replacement": 3,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "Korean Kindergarten은 자체 3D 시뮬레이션의 실내 공간을 시네마틱으로 보여주는 작업입니다. 카메라 동선, 채광과 설비 배치를 확인하실 수 있습니다.",
+      "new": "Korean Kindergarten은 자체 제작한 3D 시뮬레이션입니다. 영상에서 게임 속 실내 공간의 카메라 동선, 채광과 설비 배치를 확인하실 수 있습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K07",
+      "replacement": 4,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "Orbit Foundry는 자체 게임의 3D 개발 시네마틱입니다.",
+      "new": "Orbit Foundry 영상은 개발 중인 자체 3D 게임의 시네마틱입니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K08",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "GLB와 편집 가능한 Blender 형식으로 제작·배포한 경험을 원본 정리에 연결합니다.",
+      "new": "GLB와 편집 가능한 Blender 파일을 제작·배포한 경험을 바탕으로, 본 과업의 자산과 원본을 정리하겠습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K09",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "슬래브의 배치 순서와 발주처 확인 자료의 이음·그라우팅 단계",
+      "new": "슬래브 배치 순서와 발주처 자료에 따른 이음·그라우팅 단계",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K09",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "전체 구조·조립 흐름과 발주처가 확인한 주요 설명 포인트 정리",
+      "new": "전체 구조·조립 흐름과 발주처가 확인한 핵심 설명 내용",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K09",
+      "replacement": 3,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "마지막 구간은 고객 제안·프레젠테이션에서 설명할 부재 역할·조립 순서·접합 관계를 정리합니다.",
+      "new": "마지막 구간에서는 고객 제안·프레젠테이션에 활용할 부재의 역할, 조립 순서와 접합 관계를 정리합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K09",
+      "replacement": 4,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "3분 30초 구성안의 마지막 35초에는 부재 역할·조립 순서·접합 관계 등 고객 설명용 핵심 포인트를 정리합니다.",
+      "new": "3분 30초 구성안의 마지막 35초에는 부재의 역할, 조립 순서와 접합 관계 등 고객에게 설명할 핵심 내용을 정리합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K10",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "11월 30일 납품을 기준으로 단계별로 확인합니다.",
+      "new": "11월 30일 납품까지 단계별로 확인합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K10",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "전체 모델·공정·자산 검수와 대표 장면 4K 시험 렌더",
+      "new": "전체 모델·공정 자료·자산 검수와 대표 장면의 4K 시험 렌더링",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K10",
+      "replacement": 3,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "자료·검토 회신이 지연될 것으로 예상되면 즉시 영향을 공유하고, 11월 30일 납품을 기준으로 반영 우선순위와 가능한 대안을 협의합니다. 초기 시험 렌더로 모델 처리와 출력 규모를 먼저 확인합니다.",
+      "new": "자료 전달이나 검토 회신이 지연될 것으로 예상되면 일정에 미치는 영향을 즉시 공유합니다. 11월 30일 납품을 기준으로 반영 우선순위와 대안을 협의합니다. 초기 시험 렌더링으로 모델 처리와 출력 작업 규모를 확인합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K10",
+      "replacement": 4,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "자료·회신 지연이 예상되면 즉시 영향을 공유하고, 11월 30일 납품을 기준으로 반영 우선순위와 가능한 대안을 협의합니다.",
+      "new": "자료 전달이나 검토 회신이 지연될 것으로 예상되면 일정에 미치는 영향을 즉시 공유하고, 11월 30일 납품을 기준으로 반영 우선순위와 대안을 협의합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K10",
+      "replacement": 5,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "대표 장면 4K 시험 렌더를 진행합니다.",
+      "new": "대표 장면의 4K 시험 렌더링을 진행합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K11",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "대표 모델을 확인해 계약 전에 포함 작업과 금액을 확정하는 기준의 제안 초안입니다.",
+      "new": "대표 모델을 확인한 뒤 계약 전에 작업 범위와 금액을 확정하는 제안 초안입니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K11",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "모델 불러오기·단위 확인, 기존 부재의 장면 배치·명명 정리와 애니메이션·렌더링·CG·편집·한국어 자막을 포함합니다.",
+      "new": "모델 불러오기와 단위 확인, 기존 부재의 배치·명칭 정리를 포함합니다. 애니메이션·렌더링·CG·편집·한국어 자막도 제작합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K11",
+      "replacement": 3,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "불러오기와 가공 필요 범위를 확인하고, 객체 분리·형상 복원·누락 상세의 신규 제작을 포함할지 정해 견적 범위와 금액을 확정합니다.",
+      "new": "모델을 불러올 수 있는지와 추가 가공 범위를 확인합니다. 객체 분리·형상 복원·누락 상세 제작의 포함 여부를 정해 견적 범위와 금액을 확정합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K11",
+      "replacement": 4,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "계약 전에는 대표 모델로 불러오기와 가공 필요 범위를 확인해 견적 범위를 정합니다.",
+      "new": "계약 전에는 대표 모델을 불러올 수 있는지와 추가 가공 범위를 확인해 견적 범위를 정합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K11",
+      "replacement": 5,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "계약 전 대표 모델 확인에서 불러오기와 가공 필요 범위를 확인하고, 객체 분리·형상 복원·누락 상세의 신규 제작을 포함할지 정해 견적 범위와 금액을 확정합니다.",
+      "new": "계약 전에는 대표 모델을 불러올 수 있는지와 추가 가공 범위를 확인합니다. 객체 분리·형상 복원·누락 상세 제작의 포함 여부를 정해 견적 범위와 금액을 확정합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K12",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "콘티 1회·본편 1회의 일괄 의견을 기준으로 합니다. 승인된 콘티 안의 위치·타이밍·자막·표현 조정은 기본 수정에 포함합니다. 승인 후 부재·공정·상세 추가나 시나리오 변경은 비용과 납기 내 반영 가능성을 사전에 협의합니다. 제작 오류는 수정 횟수에서 차감하지 않습니다.",
+      "new": "콘티와 본편 단계에서 각각 1회씩 검토 의견을 취합합니다. 승인된 콘티 범위의 위치·타이밍·자막·표현 조정은 기본 수정에 포함합니다. 콘티 승인 후 부재·공정·상세 장면 추가나 시나리오 변경은 비용과 납기 내 반영 가능성을 사전에 협의합니다. 제작 오류를 바로잡는 수정은 위 횟수에 포함하지 않습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K12",
+      "replacement": 2,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "콘티 1회·본편 1회의 일괄 의견을 기준으로 합니다. 기본 수정은 승인된 콘티 범위 내의 위치·타이밍·자막·표현 조정입니다. 승인 후 부재·공정·상세 장면 추가나 시나리오 변경은 비용과 납기 내 반영 가능성을 사전에 협의합니다. 제작 오류 수정은 수정 횟수에서 차감하지 않습니다.",
+      "new": "콘티와 본편 단계에서 각각 1회씩 검토 의견을 취합합니다. 기본 수정은 승인된 콘티 범위의 위치·타이밍·자막·표현 조정입니다. 콘티 승인 후 부재·공정·상세 장면 추가나 시나리오 변경은 비용과 납기 내 반영 가능성을 사전에 협의합니다. 제작 오류를 바로잡는 수정은 위 횟수에 포함하지 않습니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "Blender 장면·카메라·애니메이션·자막·편집 구성",
+      "new": "장면·카메라·애니메이션·자막·편집 구성이 포함된 Blender 프로젝트",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "제공 가능한 사용 자산, 버전·열기 안내, 파일 목록",
+      "new": "인계 가능한 자산, 제작 도구 버전·파일 열기 안내, 파일 목록",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 3,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "고객 제공 모델과 외부 자산은 사용·인계 권한에 맞춰 포함하고, 라이선스와 원본 제공 범위를 함께 정리합니다.",
+      "new": "발주처 제공 모델과 외부 자산은 사용·인계가 허용된 범위에서 포함하고, 라이선스와 원본 제공 범위를 함께 정리합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 4,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "원본 · 프로젝트 열기, 사용 자산·누락 미디어",
+      "new": "원본 · 프로젝트 열기, 자산·미디어 누락 여부",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 5,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "편집 가능한 Blender 장면·카메라·애니메이션·자막·편집 구성",
+      "new": "장면·카메라·애니메이션·자막·편집 구성이 포함된 편집 가능한 Blender 프로젝트",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 6,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "제공 가능한 사용 자산, 버전·열기 안내와 파일 목록",
+      "new": "인계 가능한 자산, 제작 도구 버전·파일 열기 안내와 파일 목록",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 7,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "고객 제공 모델과 외부 자산은 사용·인계 권한에 맞춰 포함하고 라이선스와 원본 제공 범위를 함께 정리합니다.",
+      "new": "발주처 제공 모델과 외부 자산은 사용·인계가 허용된 범위에서 포함하고 라이선스와 원본 제공 범위를 함께 정리합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K13",
+      "replacement": 8,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "최종 납품 전에 해상도·길이·프레임·재생 오류·자막과 원본 열기·누락 미디어를 확인합니다.",
+      "new": "최종 납품 전 영상의 해상도·길이·프레임과 자막을 확인하고 재생 오류를 점검합니다. 원본 프로젝트가 정상적으로 열리는지, 자산이나 미디어가 누락되지 않았는지도 확인합니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K14",
+      "replacement": 1,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "제안 초안 700만원 · VAT 포함",
+      "new": "제안 초안 700만 원 · 부가세 포함",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K14",
+      "replacement": 2,
+      "target": "PDF",
+      "status": "adopted",
+      "old": "VAT 포함 기준 · 발주처 제공 모델 활용",
+      "new": "부가세 포함 · 발주처 제공 모델 활용",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    },
+    {
+      "id": "K14",
+      "replacement": 3,
+      "target": "제출 본문",
+      "status": "adopted",
+      "old": "7,000,000원, VAT 포함 기준의 제안 초안입니다.",
+      "new": "7,000,000원(부가세 포함)을 기준으로 작성한 제안 초안입니다.",
+      "method": "Exact one-occurrence replacement within the reviewed PDF source region or submission body, after context review."
+    }
+  ],
+  "optional_items_not_adopted": [],
+  "additional_contextual_adjustments": [
+    "Submission numbered sample points placed on separate lines.",
+    "First schedule appearance explains 콘티 as 장면 구성안 in PDF and submission; no additional approval stage.",
+    "Submission basic model work wording aligned with K11 PDF phrasing.",
+    "QA phrase assertions updated to the adopted Korean wording."
+  ],
+  "unchanged_conditions": [
+    "Proposal draft KRW 7,000,000 including VAT",
+    "Nov 10 start / Nov 30 fixed delivery / Nov 16,22,25 review dates / Nov29 reserve",
+    "210-second storyboard and final35-second client explanation",
+    "One collective feedback round at each storyboard/main stage; production-error fixes excluded",
+    "Pre-contract representative model scope / post-start full model and process checks",
+    "Asset handoff limited to use/transfer rights",
+    "Only the two canonical video URLs; no extra deliverables or performance claims"
+  ],
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "render_max_dimension_px": 1800,
+    "checks": [
+      "Korean glyphs and readability",
+      "no overlap clipping or isolated trailing syllables",
+      "meaning-based sentence line breaks on pages2/6/7",
+      "original poster framing and video cards preserved",
+      "contract terms and PM M1-M4/O1 preserved"
+    ]
+  },
+  "layout_and_context_adjustments": [
+    "K04 / page2: sentence break keeps 그라우팅 intact; wording and scope unchanged.",
+    "K10 / page6: three sentences on three lines, preventing 모델 split without reducing font size.",
+    "K11 / page7 basic scope: separate the two sentences to prevent a leading middle dot.",
+    "K11 / page7 representative model: three meaning-based lines keep 제작 intact.",
+    "K12 / page7 revision conditions: five meaning-based lines; each feedback count and error-fix exclusion retained.",
+    "Page7 revision heading/paragraph moved down7pt to provide space below representative-model block; font sizes unchanged.",
+    "K06 / page4 current-detail caption aligned with the reviewed 기계형3D모델 wording; no claim changed."
+  ],
+  "final_text_verification": [
+    {
+      "id": "K01",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K02",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K02",
+      "replacement": 2,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K03",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K03",
+      "replacement": 2,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K04",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K04",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K04",
+      "replacement": 3,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K05",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K05",
+      "replacement": 2,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K06",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K06",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K06",
+      "replacement": 3,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K06",
+      "replacement": 4,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K06",
+      "replacement": 5,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K07",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K07",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K07",
+      "replacement": 3,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K07",
+      "replacement": 4,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K08",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K09",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K09",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K09",
+      "replacement": 3,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K09",
+      "replacement": 4,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K10",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K10",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K10",
+      "replacement": 3,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K10",
+      "replacement": 4,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K10",
+      "replacement": 5,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K11",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K11",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K11",
+      "replacement": 3,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K11",
+      "replacement": 4,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K11",
+      "replacement": 5,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K12",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K12",
+      "replacement": 2,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 3,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 4,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 5,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 6,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 7,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K13",
+      "replacement": 8,
+      "target": "제출 본문",
+      "final_text_verified": true
+    },
+    {
+      "id": "K14",
+      "replacement": 1,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K14",
+      "replacement": 2,
+      "target": "PDF",
+      "final_text_verified": true
+    },
+    {
+      "id": "K14",
+      "replacement": 3,
+      "target": "제출 본문",
+      "final_text_verified": true
+    }
+  ],
+  "final_pdf_sha256": "7daa7a714f201f9c8ad4dbfe5ea045919e206b0c0c340cacd94189f9aff61486",
+  "final_submission_sha256": "9a490a06ed6a858aacdb0eff9664102f7e5a76f336a50755cdbc05a0f363e38d",
+  "status": "all47_candidates_adopted_and_verified"
+}

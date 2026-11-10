@@ -1,0 +1,62 @@
+{
+  "status": "passed",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal.pdf",
+  "pages": 7,
+  "pdf_bytes": 2546231,
+  "attachments": [
+    "01_프리캐스트_조립샘플.mp4",
+    "02_어린이집_실내공간연출.mp4",
+    "03_Orbit_Foundry_3D_연출.mp4"
+  ],
+  "uri_annotations": 0,
+  "all_annotations": 0,
+  "video_links": 0,
+  "qr_codes": 0,
+  "play_icons": 0,
+  "browser_playback_controls": 0,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": "passed: all 7 final page PNGs inspected; no clipping, overlap, QR codes or playback controls",
+  "korean_review_items": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12",
+    "K13",
+    "K14"
+  ],
+  "pm_improvements": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "O1"
+  ],
+  "final_render_files": [
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-1.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-2.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-3.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-4.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-5.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-6.png",
+    "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227330-attachments-design/page-7.png"
+  ],
+  "sha256": "3e183ea111ceb59735783cd8397a254b1354b95103f578cbfccb4893fce436e3",
+  "pages_5_to_7_text_unchanged": [
+    5,
+    6,
+    7
+  ],
+  "embedded_video_files": 0,
+  "document_open_action": false,
+  "media_metadata_confirmed_by_root": true
+}

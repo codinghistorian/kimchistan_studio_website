@@ -1,0 +1,10 @@
+{
+  "user_provided_url": "https://youtu.be/Ol1iQsFEI5M",
+  "canonical_url": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+  "visibility": "unlisted, reported by user",
+  "video_source": "output/prototypes/kmong-227330-v2/precast-assembly-30s-4k.mp4",
+  "video_source_sha256": "cc11e47f16b461b9d244def3de125d686edc5846a7c85cb5aae2f2a6e2b9f799",
+  "native_playback_check": "not performed: computer-use tool reports Module not found: @oai/cua/tinyskyAlt",
+  "browser_constraint": "No Playwright used in this revision; user requested Safari computer use.",
+  "revision_number_visible_in_document": false
+}

@@ -1,0 +1,1381 @@
+[
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / PROPOSAL"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "01 / PROPOSAL"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "사내관리시스템 FE 리뉴얼"
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "기존 기능과 업무 흐름을 유지하면서,사용하기 쉽고 유지보수 가능한 관리자 시스템으로 전환하겠습니다."
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 195.0,
+    "bottom": 206.3,
+    "text": "매일 쓰는 업무를 더 명확하게"
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 218.0,
+    "bottom": 250.0,
+    "text": "PC 관리자 웹의 화면과 코드를 정비하고, 기존 API와 업무 규칙을 이어갑니다. 로그인부터 조회·보고·결재까지, 현재 사용 중인 기능이 새 화면에서도 동일하게 동작하는지를 기준으로 완성도를 확인합니다."
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 303.0,
+    "bottom": 311.3,
+    "text": "기본 제안 금액"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 324.0,
+    "bottom": 347.0,
+    "text": "6,000,000원"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 359.0,
+    "bottom": 368.2,
+    "text": "VAT 포함 / 세금계산서 발행 가능"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 303.0,
+    "bottom": 311.3,
+    "text": "기본 수행 일정"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 325.0,
+    "bottom": 348.0,
+    "text": "50일"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 359.0,
+    "bottom": 368.8,
+    "text": "2026.11.11 - 2026.12.31"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 415.0,
+    "bottom": 423.2,
+    "text": "01"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 412.0,
+    "bottom": 425.3,
+    "text": "고객님이 확인하실 세 가지 결과"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 455.0,
+    "bottom": 464.0,
+    "text": "01"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 453.0,
+    "bottom": 464.7,
+    "text": "일관된 업무 화면"
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 474.0,
+    "bottom": 490.0,
+    "text": "표·필터·입력폼·상태 안내를 공통화해 화면마다 다른 조작 방식과 피드백을 정리합니다."
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 519.0,
+    "bottom": 528.0,
+    "text": "02"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 517.0,
+    "bottom": 528.7,
+    "text": "기존 기능과 데이터의 연속성"
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 538.0,
+    "bottom": 554.0,
+    "text": "화면·권한·API 대응표로 누락을 점검하고, 통계 결과와 결재 흐름, 이전 데이터를 대조합니다."
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 583.0,
+    "bottom": 592.0,
+    "text": "03"
+  },
+  {
+    "page": 1,
+    "kind": "text",
+    "top": 581.0,
+    "bottom": 592.7,
+    "text": "개발 중 확인하고 인수할 수 있는 결과물"
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 602.0,
+    "bottom": 618.0,
+    "text": "대표 화면을 먼저 시연하고 주간 단위로 공유합니다. 소스·배포 안내·검수 결과·복귀 절차까지 전달합니다."
+  },
+  {
+    "page": 1,
+    "kind": "paragraph",
+    "top": 635.0,
+    "bottom": 665.0,
+    "text": "제안 기준  PC 프론트엔드 전환·UI/UX 개선 + 합의한 소량 DB 이전. 스마트폰 대응은 추가 1,200,000원(VAT 포함)의 선택 견적이며, 최종 과업·금액은 화상 미팅 및 요구명세 합의 후 확정합니다."
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / SCOPE & UX"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "02 / SCOPE & UX"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "현재 기능을 빠짐없이 연결합니다"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "기존 메뉴 구조와 업무 규칙을 기준으로 화면을 전환하고,실제 업무에 필요한 가독성·조작 일관성·처리 피드백을 개선합니다."
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "기능 영역"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "유지·전환 기준"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "주요 확인 항목"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 234.0,
+    "text": "로그인·인증"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 234.0,
+    "text": "기존 인증·세션 흐름 유지"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 234.0,
+    "text": "로그인·로그아웃, 만료·접근 제한 시 안내"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 254.0,
+    "bottom": 269.0,
+    "text": "권한별 대시보드"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 254.0,
+    "bottom": 269.0,
+    "text": "기존 역할별 정보와 접근 범위 유지"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 254.0,
+    "bottom": 269.0,
+    "text": "역할별 노출·이동·API 접근 결과"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 289.0,
+    "bottom": 304.0,
+    "text": "통계·리포트"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 289.0,
+    "bottom": 304.0,
+    "text": "기존 조회 조건과 결과 구조 유지"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 289.0,
+    "bottom": 304.0,
+    "text": "동일 조건의 수치·합계·기존 출력 결과"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 324.0,
+    "bottom": 339.0,
+    "text": "알림·공지사항"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 324.0,
+    "bottom": 339.0,
+    "text": "기존 조회·관리 흐름 전환"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 324.0,
+    "bottom": 339.0,
+    "text": "목록·상세·등록 등 현행 제공 기능"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 359.0,
+    "bottom": 374.0,
+    "text": "사용자·권한 관리"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 359.0,
+    "bottom": 374.0,
+    "text": "기존 설정 화면 전환"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 359.0,
+    "bottom": 374.0,
+    "text": "설정 결과·접근 범위; 고도화는 별도 합의"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 394.0,
+    "bottom": 409.0,
+    "text": "파일 업로드·다운로드"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 394.0,
+    "bottom": 409.0,
+    "text": "기존 파일 처리 방식 연동"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 394.0,
+    "bottom": 409.0,
+    "text": "허용 형식·용량·권한·실패 안내"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 429.0,
+    "bottom": 444.0,
+    "text": "내부 결재·승인"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 429.0,
+    "bottom": 444.0,
+    "text": "기존 결재 단계·상태 전환 유지"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 429.0,
+    "bottom": 444.0,
+    "text": "역할별 처리·중복 조작·상태 표시"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 478.0,
+    "bottom": 486.2,
+    "text": "02"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 475.0,
+    "bottom": 488.3,
+    "text": "UI/UX 개선의 적용 기준"
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 503.0,
+    "bottom": 513.7,
+    "text": "정보를 읽기 쉽게"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 502.0,
+    "bottom": 533.0,
+    "text": "표의 열·숫자 정렬, 상태 표시, 검색·필터 위치와 정보 위계를 정리합니다. 기존 메뉴 구조는 유지합니다."
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 546.0,
+    "bottom": 556.7,
+    "text": "처리 결과를 알기 쉽게"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 545.0,
+    "bottom": 560.5,
+    "text": "필수 입력·유효성 검사·로딩·빈 결과·실패 안내를 통일하고, 처리 중 중복 조작을 줄입니다."
+  },
+  {
+    "page": 2,
+    "kind": "text",
+    "top": 573.5,
+    "bottom": 584.2,
+    "text": "대표 화면으로 먼저 검증"
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 572.5,
+    "bottom": 603.5,
+    "text": "미팅에서 우선순위를 정한 대시보드·목록/상세·입력/결재 유형 중 대표 화면을 먼저 구현해 방향을 합의합니다."
+  },
+  {
+    "page": 2,
+    "kind": "paragraph",
+    "top": 618.5,
+    "bottom": 647.5,
+    "text": "표의 확인 항목은 현행 제공 기능에 한해 적용합니다. 화면·팝업·역할별 변형을 포함한 목록과 필수 시나리오를 착수 시 대조하며, 신규 기능과 메뉴 구조 재설계는 기본 범위에 포함하지 않습니다."
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / TECH & MIGRATION"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "03 / TECH & MIGRATION"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "기존 API와 데이터를 이어갑니다"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "JavaScript 생태계로 프론트엔드를 전환하고,API 계약과 데이터의 일관성을 유지하는 방식으로 통합합니다."
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 184.0,
+    "bottom": 192.2,
+    "text": "01"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 181.0,
+    "bottom": 194.3,
+    "text": "제안 기술과 적용 이유"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 218.0,
+    "bottom": 227.0,
+    "text": "구성"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 218.0,
+    "bottom": 227.0,
+    "text": "역할"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 247.0,
+    "bottom": 262.4,
+    "text": "React + TypeScript"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 247.0,
+    "bottom": 262.4,
+    "text": "화면을 컴포넌트로 분리하고 데이터 타입을 명확히 해 연결 오류와 변경 영향을 줄입니다."
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 282.4,
+    "bottom": 297.79999999999995,
+    "text": "Vite + Node.js"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 282.4,
+    "bottom": 297.79999999999995,
+    "text": "개발·빌드 환경으로 활용합니다. 신규 Node.js 백엔드 구축은 포함하지 않습니다."
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 317.79999999999995,
+    "bottom": 333.19999999999993,
+    "text": "Material UI"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 317.79999999999995,
+    "bottom": 348.59999999999997,
+    "text": "표·폼·대화상자·상태 표시를 공통화합니다. 무료 구성요소를 우선 활용하고 유료 기능은 사전 협의합니다."
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 379.59999999999997,
+    "bottom": 387.79999999999995,
+    "text": "02"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 376.59999999999997,
+    "bottom": 389.9,
+    "text": "인증·권한과 API 연결"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 404.59999999999997,
+    "bottom": 436.59999999999997,
+    "text": "기존 인증 방식, 요청·응답 구조와 업무 규칙을 유지합니다. 화면의 노출 제어와 함께 서버의 권한 판정 결과를 확인합니다. DB 접근은 기존 백엔드를 통해 처리하며, 프론트엔드에 DB 자격증명을 두지 않습니다."
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 446.59999999999997,
+    "bottom": 477.59999999999997,
+    "text": "소스 확인 시 PHP 내부 업무 로직과 API 미제공 기능을 구분합니다. 기존 API만으로 전환이 어려운 항목은 확인 즉시 처리안·담당·비용·일정 영향을 제시하고, 추가 개발 여부를 사전 합의합니다."
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 498.59999999999997,
+    "bottom": 506.79999999999995,
+    "text": "03"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 495.59999999999997,
+    "bottom": 508.9,
+    "text": "MySQL → MariaDB 이전 절차"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 533.5999999999999,
+    "bottom": 541.5999999999999,
+    "text": "01"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 550.5999999999999,
+    "bottom": 561.0999999999999,
+    "text": "호환성 점검"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 569.5999999999999,
+    "bottom": 595.5999999999999,
+    "text": "버전·문자셋·쿼리연결 설정 확인"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 533.5999999999999,
+    "bottom": 541.5999999999999,
+    "text": "02"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 550.5999999999999,
+    "bottom": 561.0999999999999,
+    "text": "시험 이전"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 569.5999999999999,
+    "bottom": 595.5999999999999,
+    "text": "백업·복구 확인시험 환경에 복원"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 533.5999999999999,
+    "bottom": 541.5999999999999,
+    "text": "03"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 550.5999999999999,
+    "bottom": 561.0999999999999,
+    "text": "결과 대조"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 569.5999999999999,
+    "bottom": 595.5999999999999,
+    "text": "테이블 건수·핵심 값통계·API 회귀 확인"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 533.5999999999999,
+    "bottom": 541.5999999999999,
+    "text": "04"
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 550.5999999999999,
+    "bottom": 561.0999999999999,
+    "text": "승인 후 전환"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 569.5999999999999,
+    "bottom": 595.5999999999999,
+    "text": "쓰기 중지·최종 백업이전·검증·재개"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 627.5999999999999,
+    "bottom": 658.5999999999999,
+    "text": "대상 버전, 소량 데이터의 범위, 뷰·트리거·저장 로직 및 타 시스템 의존성을 먼저 확인합니다. 연결 설정과 합의한 호환성 보완을 포함하며, 소요 중지 시간은 시험 이전 결과를 기준으로 협의합니다."
+  },
+  {
+    "page": 3,
+    "kind": "text",
+    "top": 684.5999999999999,
+    "bottom": 695.8999999999999,
+    "text": "복귀 기준까지 준비합니다"
+  },
+  {
+    "page": 3,
+    "kind": "paragraph",
+    "top": 707.5999999999999,
+    "bottom": 739.5999999999999,
+    "text": "쓰기 재개 전 검증에 실패하면 기존 환경으로 복귀합니다. 재개 후 문제가 발생하면 추가 쓰기를 중지하고 변경분을 보존한 뒤 복구 방안을 합의합니다. 원본 백업과 시험 복구 결과, 운영 전환·복귀 절차를 인수 자료에 포함합니다."
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / TEAM & SCHEDULE"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "04 / TEAM & SCHEDULE"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "책임과 진행 상황이 보이는 개발"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "PM이 개발에도 직접 참여하고, 웹 개발 전문 인력을 더해 수행합니다.대표 화면 시연부터 운영 전환까지 검토 시점을 명확히 하겠습니다."
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 184.0,
+    "bottom": 192.2,
+    "text": "01"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 181.0,
+    "bottom": 194.3,
+    "text": "2인 수행 계획"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 218.0,
+    "bottom": 227.0,
+    "text": "역할"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 218.0,
+    "bottom": 227.0,
+    "text": "책임"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 247.0,
+    "bottom": 262.4,
+    "text": "PM 겸 개발자 1명"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 247.0,
+    "bottom": 262.4,
+    "text": "고객 소통, 요구사항·설계, 개발, API 통합, DB 이전 조정, QA·검수 및 인수인계 총괄"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 282.4,
+    "bottom": 297.79999999999995,
+    "text": "웹 전문 프리랜서 1명"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 282.4,
+    "bottom": 297.79999999999995,
+    "text": "계약 체결 후 합류 예정. 공통 UI·기능별 화면 구현과 연동, 테스트 및 이슈 수정 분담"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 329.79999999999995,
+    "bottom": 337.99999999999994,
+    "text": "02"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 326.79999999999995,
+    "bottom": 340.09999999999997,
+    "text": "기본 일정: 2026.11.11 - 2026.12.31 / 50일"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 363.79999999999995,
+    "bottom": 372.79999999999995,
+    "text": "기간"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 363.79999999999995,
+    "bottom": 372.79999999999995,
+    "text": "주요 작업"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 363.79999999999995,
+    "bottom": 372.79999999999995,
+    "text": "확인·산출물"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 389.79999999999995,
+    "bottom": 404.99999999999994,
+    "text": "11.11 - 11.17"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 389.79999999999995,
+    "bottom": 420.19999999999993,
+    "text": "화면·API·권한·DB 점검과업 기준과 UI 방향 합의"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 389.79999999999995,
+    "bottom": 420.19999999999993,
+    "text": "범위·대응표필수 시나리오"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 434.19999999999993,
+    "bottom": 449.3999999999999,
+    "text": "11.18 - 11.24"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 434.19999999999993,
+    "bottom": 464.5999999999999,
+    "text": "공통 구조·UI 구성요소대표 화면 구현 및 API 연결"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 434.19999999999993,
+    "bottom": 464.5999999999999,
+    "text": "대표 화면 시연UI 방향 확인"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 478.5999999999999,
+    "bottom": 493.7999999999999,
+    "text": "11.25 - 12.15"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 478.5999999999999,
+    "bottom": 508.9999999999999,
+    "text": "기능별 화면 전환과 API 연동완료 흐름별 점검·보완"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 478.5999999999999,
+    "bottom": 508.9999999999999,
+    "text": "주간 시연기능 점검 기록"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 522.9999999999999,
+    "bottom": 538.1999999999999,
+    "text": "12.16 - 12.24"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 522.9999999999999,
+    "bottom": 553.3999999999999,
+    "text": "통합 테스트·DB 시험 이전데이터 대조·사용자 검수"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 522.9999999999999,
+    "bottom": 553.3999999999999,
+    "text": "검수 결과전환 계획"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 567.3999999999999,
+    "bottom": 582.5999999999999,
+    "text": "12.28 - 12.31"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 567.3999999999999,
+    "bottom": 597.7999999999998,
+    "text": "중대 이슈 해소·승인 후 운영 전환배포 확인·인수인계"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 567.3999999999999,
+    "bottom": 597.7999999999998,
+    "text": "소스·문서인수 확인"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 626.7999999999998,
+    "bottom": 634.9999999999999,
+    "text": "03"
+  },
+  {
+    "page": 4,
+    "kind": "text",
+    "top": 623.7999999999998,
+    "bottom": 637.0999999999998,
+    "text": "검토와 의사결정 방식"
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 651.7999999999998,
+    "bottom": 683.7999999999998,
+    "text": "매주 시연과 진행 보고  완료 범위·다음 작업·확인할 이슈를 공유합니다. 공통 이슈 목록에 담당과 상태를 기록하고, 결정 사항을 문서로 남깁니다."
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 693.7999999999998,
+    "bottom": 725.7999999999998,
+    "text": "합의한 범위 안에서 완성  미팅에서 화면 목록과 필수 업무를 정리하고, 계약 후 소스·API와 대조합니다. 합의 범위의 과업은 견적 내 수행하며, 추가 요구는 영향 설명과 사전 합의를 거칩니다."
+  },
+  {
+    "page": 4,
+    "kind": "paragraph",
+    "top": 737.7999999999998,
+    "bottom": 767.1999999999998,
+    "text": "의뢰인 측 업무 설명·검수 담당자, 역할별 시험 계정, 소스/API 명세, DB·배포 환경 접근과 검토 일정을 착수 시 합의합니다. 자료·의사결정 지연 또는 추가 과업이 있으면 영향과 조정안을 즉시 공유합니다."
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / OFFER & ACCEPTANCE"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "05 / OFFER & ACCEPTANCE"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "범위·견적·검수 기준을 명확하게"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "PC 기본 과업과 스마트폰 선택 과업을 구분했습니다.견적은 VAT 포함이며 세금계산서 발행이 가능합니다."
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "구분"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "범위"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 190.0,
+    "bottom": 199.0,
+    "text": "금액 / VAT 포함"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 234.2,
+    "text": "기본 과업"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 249.4,
+    "text": "PC 프론트엔드 전환·UI/UX 개선+ 합의한 소량 MySQL → MariaDB 이전"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 219.0,
+    "bottom": 234.2,
+    "text": "6,000,000원"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 269.4,
+    "bottom": 284.59999999999997,
+    "text": "스마트폰 선택"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 269.4,
+    "bottom": 299.79999999999995,
+    "text": "합의 화면의 스마트폰 조회·입력·결재 대응태블릿·네이티브 앱 제외 / 잠정 견적"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 269.4,
+    "bottom": 284.59999999999997,
+    "text": "+1,200,000원"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 319.79999999999995,
+    "bottom": 334.99999999999994,
+    "text": "선택 시 합계"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 319.79999999999995,
+    "bottom": 334.99999999999994,
+    "text": "기본 과업 + 스마트폰 선택 과업"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 319.79999999999995,
+    "bottom": 334.99999999999994,
+    "text": "7,200,000원"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 355.99999999999994,
+    "bottom": 385.59999999999997,
+    "text": "기본 완료 목표는 2026.12.31입니다. 스마트폰 옵션은 화면 목록·표 밀도·파일 처리·시험 단말을 검토한 뒤 최종 범위와 최대 7일의 추가 일정을 합의합니다. 위 금액은 공고 기준의 제안 견적으로, 화상 미팅과 요구명세 합의 후 확정합니다."
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 405.59999999999997,
+    "bottom": 413.79999999999995,
+    "text": "01"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 402.59999999999997,
+    "bottom": 415.9,
+    "text": "최종 검수 기준"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 430.59999999999997,
+    "bottom": 462.59999999999997,
+    "text": "합의한 필수 업무 시나리오를 모두 통과하고, 전환으로 발생한 중대 결함을 해소한 뒤 운영 전환합니다. 중대 결함에는 핵심 업무 중단, 권한 오류, 데이터 누락·불일치가 포함됩니다."
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 472.59999999999997,
+    "bottom": 503.59999999999997,
+    "text": "권한별 접근·세션 만료, 동일 조건의 통계 결과, 기존 결재 상태 전환, 파일 송수신, API 실패 안내, 이전 데이터 건수와 핵심 값을 확인합니다. 의뢰인 검수 결과와 운영 전환 승인을 기록합니다."
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 523.5999999999999,
+    "bottom": 531.8,
+    "text": "02"
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 520.5999999999999,
+    "bottom": 533.8999999999999,
+    "text": "인수 산출물과 납품 후 지원"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 548.5999999999999,
+    "bottom": 599.5999999999999,
+    "text": "소스·개발 자료  소스코드, 의존성·라이선스 목록, 화면/API 대응표배포·운영 자료  빌드·배포·설정 안내, 운영자 안내검증·이전 자료  테스트·검수 결과, DB 이전·복귀 절차와 점검 기록"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 610.5999999999999,
+    "bottom": 642.1999999999999,
+    "text": "검수 완료 후 30일간 납품 범위의 결함 보정을 제안합니다. 지속적인 운영 대행, 기능 추가와 외부 환경 변경에 따른 대응은 별도 협의합니다."
+  },
+  {
+    "page": 5,
+    "kind": "text",
+    "top": 672.1999999999999,
+    "bottom": 683.4999999999999,
+    "text": "견적의 기준과 변경 관리"
+  },
+  {
+    "page": 5,
+    "kind": "paragraph",
+    "top": 695.1999999999999,
+    "bottom": 743.1999999999999,
+    "text": "기존 기능·메뉴·API 활용과 소량 DB 이전을 전제로 합니다. 신규 기능, 메뉴 구조 재설계, 권한 고도화와 대규모 백엔드 개편은 별도 합의 대상입니다. 인프라·유료 라이선스 비용은 필요 시 사전 협의하며, 추가 작업을 임의로 진행하거나 청구하지 않습니다."
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 24,
+    "bottom": 34.2,
+    "text": "KIMCHISTAN STUDIO"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 27,
+    "bottom": 34.4,
+    "text": "PROJECT 227317 / EXPERIENCE & NEXT STEP"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 67,
+    "bottom": 75,
+    "text": "06 / EXPERIENCE & NEXT STEP"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 88,
+    "bottom": 113,
+    "text": "업무 흐름을 서비스로 구현한 경험"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 125,
+    "bottom": 158.0,
+    "text": "주식회사 김치스탄스튜디오는 웹·모바일 서비스와 맞춤형 소프트웨어를 만듭니다.관련 경험과 이번 과업에 적용할 방식을 함께 소개합니다."
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 181.0,
+    "bottom": 189.2,
+    "text": "RELATED WEB SERVICE"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 201.0,
+    "bottom": 230.0,
+    "text": "John 4:24"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 241.0,
+    "bottom": 251.1,
+    "text": "웹 서비스 구축 / 2026.04 착수 / 당사 참여도 100%"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 277.0,
+    "bottom": 285.0,
+    "text": "01"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 299.0,
+    "bottom": 313.0,
+    "text": "곡 관리"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 327.0,
+    "bottom": 341.0,
+    "text": "가사·코드·조옮김"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 277.0,
+    "bottom": 285.0,
+    "text": "02"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 299.0,
+    "bottom": 313.0,
+    "text": "예배 기획"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 327.0,
+    "bottom": 341.0,
+    "text": "큐시트·콘티"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 277.0,
+    "bottom": 285.0,
+    "text": "03"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 299.0,
+    "bottom": 313.0,
+    "text": "팀 협업"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 327.0,
+    "bottom": 341.0,
+    "text": "협업을 위한 업무 흐름"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 384.0,
+    "bottom": 416.0,
+    "text": "곡 관리, 가사·코드·조옮김, 예배 큐시트·콘티와 팀 협업을 지원하는 웹 서비스를 구축했습니다. 구조화된 데이터와 여러 업무 흐름을 화면으로 연결한 경험을 바탕으로, 이번 과업에서도 업무의 순서와 화면 간 일관성을 함께 살피겠습니다."
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 427.0,
+    "bottom": 458.0,
+    "text": "현재는 모바일 앱으로 확장하고 있습니다. 기존 웹 서비스를 바탕으로 React Native 기반 Android·iOS 앱을 개발 중이며, 모바일 앱은 2027년 출시를 목표로 합니다. 이번 제안의 스마트폰 옵션은 웹 반응형 대응입니다."
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 481.0,
+    "bottom": 489.2,
+    "text": "01"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 478.0,
+    "bottom": 491.3,
+    "text": "화상 미팅에서 함께 확정할 항목"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 518.0,
+    "bottom": 528.5,
+    "text": "화면과 업무"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 516.0,
+    "bottom": 531.5,
+    "text": "화면·팝업·역할별 변형 수, 자주 쓰는 업무, 대표 화면과 필수 검수 시나리오"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 552.5,
+    "bottom": 563.0,
+    "text": "API와 권한"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 550.5,
+    "bottom": 566.0,
+    "text": "인증·세션 방식, 역할별 권한표, 기존 API 제공 범위와 PHP 내부 업무 로직"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 587.0,
+    "bottom": 597.5,
+    "text": "DB와 운영"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 585.0,
+    "bottom": 600.5,
+    "text": "MySQL·MariaDB 버전, 데이터 규모·연계 시스템, 중지 가능 시간과 배포 환경"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 621.5,
+    "bottom": 632.0,
+    "text": "선택 과업·검수"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 619.5,
+    "bottom": 635.0,
+    "text": "스마트폰 대상 화면·단말, 검수 담당자와 일정, 최종 범위·금액"
+  },
+  {
+    "page": 6,
+    "kind": "text",
+    "top": 670.0,
+    "bottom": 681.3,
+    "text": "현재 화면과 우선 확인할 업무부터 함께 살펴보겠습니다"
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 693.0,
+    "bottom": 725.0,
+    "text": "크몽 화상 미팅에서 화면 목록과 의사결정 기준을 정리하고, 검토 가능한 대표 화면부터 개발하겠습니다. 논의 내용은 과업·일정·검수 기준으로 문서화해 공유하겠습니다."
+  },
+  {
+    "page": 6,
+    "kind": "paragraph",
+    "top": 755.0,
+    "bottom": 768.0,
+    "text": "작성 기준: 크몽 프로젝트 공고 및 당사 회사소개서. 현행 소스코드·API 명세는 공고에 따라 계약 후 확인 예정입니다."
+  }
+]

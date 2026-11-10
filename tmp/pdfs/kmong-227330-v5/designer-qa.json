@@ -1,0 +1,76 @@
+{
+  "status": "passed_document_checks",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227330-submission.txt",
+  "pages": 7,
+  "pdf_bytes": 2554057,
+  "allowed_video_urls": [
+    "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "https://www.youtube.com/watch?v=Ol1iQsFEI5M"
+  ],
+  "uri_annotations": 9,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "checks": [
+      "Korean glyphs and line breaks",
+      "no clipping or overlapping",
+      "new sample QR and action button",
+      "version-free headers and title"
+    ]
+  },
+  "qr_pixel_decode": {
+    "status": "passed",
+    "method": "macOS Vision on final rendered PDF PNGs",
+    "results": {
+      "page_2": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "page_3": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "page_4": "https://www.youtube.com/shorts/kOg6ybxZyqs"
+    }
+  },
+  "korean_review_items": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12",
+    "K13",
+    "K14"
+  ],
+  "pm_improvements": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "O1"
+  ],
+  "scope": "PDF layout, text, links, and QR only",
+  "pdf_sha256": "71c03bbc4dc6608f62860a2b70de3486a3a1c2ec664c71dee527ae478268d15e",
+  "submission_sha256": "16666334996a4e0a20307f1f5d89f447d57efed679a62ce0ca49e7ae5677462d",
+  "revision_markers_in_text_or_metadata": false,
+  "uploaded_video": {
+    "provided_url": "https://youtu.be/Ol1iQsFEI5M",
+    "unlisted_status": "reported by user",
+    "remote_playback_qa": "not performed: native Safari computer-use tool unavailable",
+    "playwright_used": false
+  }
+}

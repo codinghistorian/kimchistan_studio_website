@@ -1,0 +1,96 @@
+{
+  "internal_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227326-proposal.pdf",
+  "attachment_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집홈페이지-예약포장주문시스템-제안서.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227326-submission.txt",
+  "pages": 10,
+  "pdf_bytes": 2150794,
+  "submission_characters": 2444,
+  "submission_utf16_units": 2444,
+  "submission_limit": 3000,
+  "submission_target": 2900,
+  "base_fees_vat_included": [
+    2000000,
+    1200000,
+    2000000,
+    1400000,
+    600000,
+    800000
+  ],
+  "base_total": 8000000,
+  "takeout_option": 2000000,
+  "combined_total": 10000000,
+  "future_pg_conditional_budget_vat_included": [
+    3000000,
+    5000000
+  ],
+  "start_date": "2026-11-13",
+  "end_date": "2026-12-20",
+  "elapsed_calendar_days": 37,
+  "warranty_calendar_days_after_acceptance": 30,
+  "glyphs_checked": 9046,
+  "edge_violations": [],
+  "contact_detail_scan": "passed",
+  "external_annotations": 0,
+  "embedded_files": 0,
+  "source_screenshot_crop": [
+    65,
+    431,
+    2231,
+    1423
+  ],
+  "source_screenshot_sha256": "26bb3fb880706d9a9f41959f8173c60ed0e93bdb9a56aa2102d894b7916de8a1",
+  "attachment_matches_internal_pdf": true,
+  "preserved_source_sha256": {
+    "output/pdf/kimchistan-studio-company-introduction.pdf": "76758b55ba6986dc396eb697f6494cd21d92a7b5ed5aab01b327f2a2dcff567e",
+    "output/pdf/kmong-227317-proposal.pdf": "77a6be9893f3d0f173ab6a7d23d6a2f521f429f4b07ffd9438cc9a90b1967a98",
+    "output/proposals/kmong-227317-submission.txt": "d97af6c8c397982386c7552e9f28b68eaa46d38b9dac57789c8db984c8f8d12a"
+  },
+  "pdf_sha256": "7e5248221ef9202ea69061984ad4aee41f882e39c9bd09320bf9b76bbb7bbc9a",
+  "submission_sha256": "c40aea0f38856976af2c32d9c5ca3cda13904cc2a9b9a79b1cf27daa4d9ea43f",
+  "visual_review_complete": true,
+  "visual_review": {
+    "individually_inspected_current_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10
+    ],
+    "unchanged_pages_pixel_identical_to_previously_reviewed": [
+      8,
+      9
+    ],
+    "render_sha256": {
+      "1": "0015667b6a479da7c14f5a60141155d3a7dabb9ce4ee206d286e05b2ea0c77e0",
+      "2": "4e1bf28940762a3121661bbe15d5c2fdb02d614aa31f9f604df3cdc0a5faced2",
+      "3": "0d61a0a8eaab7769546255bfaa33f2501b235f458356fda31a6d768be04cf52e",
+      "4": "d0f536531c332090f6e7050a7d8fe1321fd4379685ad2cb888b2f53110c58004",
+      "5": "4ca3bd7f702cd1ef388e9b89cd749885455a9d07b8c2d2518e5b674b52e9f398",
+      "6": "2cca1f3bca31a1875d59deab05d1510cc31e6636c460a79eeed78f48af5fab74",
+      "7": "16d1bdcf00220bce7b4e7cc37e7f78794f98c67c57b71d985a4085981c489895",
+      "8": "29bc34191c0e64bd6ff5d385f7f8272417257812c373ffc89e923c870d12edf8",
+      "9": "b448100cd242e358d3d2821e65b8e7e5ecce215074152fef38837b43d1592d41",
+      "10": "3aa5feeefc3d5a442d4c80224cb5ef2179248a9295924dd14048c2f15918d937"
+    },
+    "result": "Reviewed all changed page renders: no clipping, overlapping text, broken tables, or image placement defects."
+  },
+  "uiux_integration": {
+    "overview_and_design_principles": [
+      1,
+      2
+    ],
+    "customer_and_staff_flows": [
+      3,
+      4
+    ],
+    "operating_rules": 5,
+    "scope_and_quotation": 6,
+    "design_confirmation_and_delivery_schedule": 7,
+    "mobile_acceptance_criteria": 10,
+    "kmong_submission_characters": 2444,
+    "previous_reviewed_version": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/archive-pre-integration/kmong-227326-proposal.pdf"
+  }
+}

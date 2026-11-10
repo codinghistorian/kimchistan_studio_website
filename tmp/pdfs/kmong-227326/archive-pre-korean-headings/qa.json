@@ -1,0 +1,117 @@
+{
+  "internal_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227326-proposal.pdf",
+  "attachment_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집홈페이지-예약포장주문시스템-제안서.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227326-submission.txt",
+  "pages": 11,
+  "pdf_bytes": 2159018,
+  "submission_characters": 2626,
+  "submission_utf16_units": 2626,
+  "submission_limit": 3000,
+  "submission_target": 2900,
+  "base_fees_vat_included": [
+    2000000,
+    1200000,
+    2000000,
+    1400000,
+    600000,
+    800000
+  ],
+  "base_total": 8000000,
+  "takeout_option": 2000000,
+  "combined_total": 10000000,
+  "future_pg_conditional_budget_vat_included": [
+    3000000,
+    5000000
+  ],
+  "start_date": "2026-11-13",
+  "end_date": "2026-12-20",
+  "elapsed_calendar_days": 37,
+  "warranty_calendar_days_after_acceptance": 30,
+  "glyphs_checked": 10492,
+  "edge_violations": [],
+  "contact_detail_scan": "passed",
+  "external_annotations": 0,
+  "embedded_files": 0,
+  "source_screenshot_crop": [
+    65,
+    431,
+    2231,
+    1423
+  ],
+  "source_screenshot_sha256": "26bb3fb880706d9a9f41959f8173c60ed0e93bdb9a56aa2102d894b7916de8a1",
+  "attachment_matches_internal_pdf": true,
+  "preserved_source_sha256": {
+    "output/pdf/kimchistan-studio-company-introduction.pdf": "76758b55ba6986dc396eb697f6494cd21d92a7b5ed5aab01b327f2a2dcff567e",
+    "output/pdf/kmong-227317-proposal.pdf": "77a6be9893f3d0f173ab6a7d23d6a2f521f429f4b07ffd9438cc9a90b1967a98",
+    "output/proposals/kmong-227317-submission.txt": "d97af6c8c397982386c7552e9f28b68eaa46d38b9dac57789c8db984c8f8d12a"
+  },
+  "pdf_sha256": "9754a9dea8c2fed7c1ecff1fe25f9822708c121f103a510fded27db917e3bf2f",
+  "submission_sha256": "5cdcf174e34e8f0f92536f7a394bb0d3d3987be1bceb8fd040e7be1e573ae3e1",
+  "visual_review_complete": true,
+  "visual_review": {
+    "individually_inspected_current_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "render_sha256": {
+      "1": "77dbdd78b1b5162713be48a8323678d7f7024d2c99d63f94bab3f963c68ea517",
+      "2": "7743f3dd1e9dd09eaa8e1016b71ccd3a6b596411b942c2e796c6e9aeaa6bca56",
+      "3": "6cb9609f423a8026f3d792ae8448dc9cc5049733ede8b27cfedec90310e712ae",
+      "4": "a9a5e825ee9052508f837c07546f7d07ca3ac4fc078d513e92789db2ba4a51ca",
+      "5": "77b5c342e4ae84063af09c03748e1c6b11767b55b22ae8e507738a1a3bbe8e10",
+      "6": "62660b98fd45fb343de05047e8a19546592bdeb8a1a32f70718cb3558944644c",
+      "7": "348a820106d029efa58d7ecf8c22268e510bb8af61079e6c74f800dc0dd858f1",
+      "8": "fa5789b82afce55314636debd86003ae0fe3960bca6252e7bf6a809e6aa45123",
+      "9": "3db8158d4dfe22800bfb5f5401f1a9051ef94ee287d7eb6f50170211ad5e47e2",
+      "10": "d19eec6b94ff1214fe6299192548dddc8fc9d26fc2cbe97da522e6dfd4c234a7",
+      "11": "5cfcae1789ec140c11222e5ce7c83199d2ac9484f475a1d73a8417a66e33329f"
+    },
+    "result": "All eleven final page renders inspected. No clipping, overlapping text, broken tables or image placement defects."
+  },
+  "uiux_integration": {
+    "overview_and_design_principles": [
+      1,
+      2
+    ],
+    "customer_and_staff_flows": [
+      3,
+      4
+    ],
+    "request_operations": 5,
+    "booking_and_channel_operations": 6,
+    "scope_and_quotation": 7,
+    "delivery_conditions_and_schedule": 8,
+    "operations_and_support": 9,
+    "future_pg": 10,
+    "portfolio_and_acceptance": 11,
+    "kmong_submission_characters": 2626
+  },
+  "prior_korean_specialist_review": {
+    "agent": "/root/korean_proposal_review",
+    "scope": "Full 10-page proposal, Kmong submission, Korean UI labels in mockups; revised text rechecked by the same agent.",
+    "page_recommendations_applied": 22,
+    "common_terminology_applied": true,
+    "report": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/korean-specialist-review.txt",
+    "application_log": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/korean-review-applied-changes.json",
+    "final_result": "No remaining mandatory Korean-language corrections after correcting one duplicated phrase in the Kmong submission.",
+    "prior_version": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/archive-pre-korean-review/kmong-227326-proposal.pdf"
+  },
+  "outsourcing_pm_review": {
+    "agent": "/root/outsourcing_pm_review",
+    "recommendations_addressed": 5,
+    "reviewed_revision_pages": 11,
+    "reviewed_submission_characters": 2626,
+    "final_result": "passed; no new material contradictions, overcommitments or mandatory corrections found",
+    "final_review_record": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/pm-revision-final-review.txt",
+    "prior_version": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/archive-pre-pm-revision/kmong-227326-proposal.pdf"
+  }
+}

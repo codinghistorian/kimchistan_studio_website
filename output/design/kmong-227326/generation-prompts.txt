@@ -1,0 +1,53 @@
+Current revision: all food photography was replaced with real free stock photographs through literal photo compositing. The prompts below record the initial UI/device concept creation, not the current food photography. See photo-credits.txt and stock/sources.json for current photo provenance.
+
+Built-in image_gen tool. Project-specific proposal concept. All UI screens, device renders, food imagery, menu data and prices are illustrative.
+
+overview
+Use case: ui-mockup / product-mockup.
+Create a high-end, exceptionally polished Behance-style responsive website UI/UX presentation visual for a fictional Korean barbecue restaurant with TWO branches, made as a PROPOSAL DESIGN CONCEPT. This is a visual asset to be placed into a PDF and presentation, not a finished case study. Output a crisp high-resolution landscape 16:10 composition, preferably 2560 x 1600 or larger.
+Scene: warm ivory studio background (#F7F5F0), soft directional daylight and elegant shallow cast shadows. Three realistic premium devices arranged with generous editorial space: a large open thin dark laptop showing the CUSTOMER HOMEPAGE, a smaller landscape tablet to its right showing STAFF RESERVATIONS, and a tall dark smartphone in the foreground showing the MOBILE CUSTOMER RESERVATION REQUEST. Devices must be physically plausible, screens flat and readable, nearly front-facing with only slight perspective, no overlap obscuring key UI. No people, hands, cables, pens, plants, business cards, extra props, logos from device makers, watermarks or browser URL bars.
+UI design language consistent on every screen: sophisticated warm ivory and forest green (#18352F), terracotta (#CB4828) accents, clean modern Korean sans serif typography, excellent whitespace, crisp hierarchy. Restaurant customers should feel welcomed; staff screens should be clear and efficient. Refined Korean charcoal-grilled meat photography on the homepage, showing beautifully grilled beef with subtle steam and restrained warm lighting. The photography is a fictional mood image, not an identifiable real venue.
+Laptop UI: wordmark EXACTLY "매장 A", tidy navigation EXACTLY "메뉴", "단체 예약", "포장 주문", "매장 안내". Large short headline EXACTLY "함께 모이는 자리". Rich food photo with room to breathe, two clear functional buttons EXACTLY "단체 예약" and "포장 주문". A visible branch switch EXACTLY "매장 A" and "매장 B". Beneath the hero, a restrained menu teaser with realistic food images. Avoid long body copy and tiny gibberish.
+Tablet UI: staff interface labelled EXACTLY "오늘의 예약", clear selected branch EXACTLY "매장 A", a simple reservation calendar/day list, room labels and prominent status chips. No revenue charts. No customer names or phone numbers. Use the EXACT labels "예약 요청", "확정", "단체룸 1" where useful.
+Phone UI: visible selected branch EXACTLY "매장 A", heading EXACTLY "단체 예약", large fields EXACTLY "12월 18일", "18:30", "8명", "단체룸 1". Primary bottom action EXACTLY "예약 요청". Small but readable explanatory text EXACTLY "직원 확인 후 확정".
+Important business invariants: booking is a REQUEST reviewed by staff; do not label it automatic confirmation. Takeout is PAID AT THE RESTAURANT, no online payment fields, card icons, pay buttons, wallet balances, delivery address, map/contact phone/URL/QR. No fake metrics, awards, research results or conversion uplift. All visible Korean must be accurately typeset. No title, caption, paragraphs or contact text OUTSIDE the screens. The image must show a coherent genuinely premium responsive product design, not a generic wireframe. Preserve uncluttered negative space around the device silhouettes.
+
+overview_refinement
+Use case: precise-object-edit.
+Edit the attached responsive restaurant device mockup. Preserve the complete composition, device geometry, food photographs, colors, lighting, every other UI element and all typography exactly.
+Only fix the small reservation list on the tablet at the right:
+1. Remove weekday suffixes entirely. The four left calendar labels must read exactly "12월 18일", "12월 19일", "12월 20일", "12월 21일". Do not show any weekday names.
+2. Preserve the first right reservation row as "18:30" with "단체룸 1" and "예약 요청".
+3. Make the second right row "19:00" with "단체룸 2" and "확정".
+4. Make the third right row "20:00" with "단체석" and "예약 요청".
+Keep every label and image outside that tablet list unchanged. Do not add any title, annotations, URLs, contacts, watermark or new controls.
+
+customer
+Use case: ui-mockup.
+Create a NEW Behance-style UI/UX customer-flow mockup visual, using the attached restaurant mockup ONLY as the visual design reference. Preserve its warm ivory, forest green (#18352F), restrained terracotta (#CB4828), premium Korean sans-serif typography, realistic dark device materials and soft studio lighting. Do not repeat the laptop/tablet composition.
+Output a very high-resolution landscape 16:10 asset. Show exactly THREE equally sized upright dark smartphones, nearly front-facing, separated by generous space on a warm ivory background. All three complete silhouettes visible with soft shadows. Large readable UI, not tiny text. No title or text outside the screens, no watermarks, no brand logos on hardware, no contact data, URLs, QR, social icons, or browser bars.
+PHONE 1, CUSTOMER ENTRY: selected branch EXACTLY "매장 A", a tasteful small Korean grilled-meat photograph, welcoming heading EXACTLY "함께 모이는 자리", branch pills EXACTLY "매장 A" and "매장 B", functional choices EXACTLY "단체 예약" and "포장 주문". A clean warm editorial homepage, spacious, no extra call/contact button.
+PHONE 2, GROUP BOOKING REQUEST: branch EXACTLY "매장 A"; title EXACTLY "단체 예약"; readable labels and values EXACTLY "방문 날짜", "12월 18일", "방문 시간", "18:30", "인원", "8명", "공간", "단체룸 1". A simple four-field form with visible selected values. Primary green action EXACTLY "예약 요청". Clear small note EXACTLY "직원 확인 후 확정". No instant-confirmed state.
+PHONE 3, TAKEOUT REQUEST: branch EXACTLY "매장 A"; title EXACTLY "포장 주문"; one appetizing meal thumbnail with a menu row EXACTLY "모둠 구이" and "2인분"; quantity control; pickup field EXACTLY "픽업 시간" with value EXACTLY "19:00"; order summary; an obvious warm pale callout EXACTLY "결제는 매장에서". Main action EXACTLY "주문 요청". Do not use pay/checkout/결제하기 buttons. No delivery flow, online payment, payment cards or wallet icons.
+The customer can choose reservation OR takeout, they are alternative journeys, so do not draw connecting arrows between the phones. Every Korean phrase must be accurately rendered. No customer names or personal details. No metrics, research claims, awards or testimonials. All screens should look like a coherent carefully designed responsive website with excellent functional UX, not a wireframe.
+
+customer_refinement
+Use case: precise-object-edit.
+Edit this three-phone customer UI mockup. Preserve the first and second phones exactly, and preserve the composition, all device silhouettes, colors, lighting, photography and all other text.
+Only improve the THIRD phone on the right so the takeout customer can see the price before requesting an order:
+In the "주문 내역" summary, keep "모둠 구이 (2인분)" and quantity "1개". Add a clean line showing the item price exactly "58,000원".
+Replace the summary line currently saying "총 주문 수량" and "1개" with a prominent total row exactly "총 주문 금액" and "58,000원".
+Preserve the obvious callout exactly "결제는 매장에서" and the main action exactly "주문 요청".
+Rebalance vertical spacing inside this third screen if necessary but do not change anything else. No online pay button or card information. No URLs, phone numbers, QR, watermarks or external captions.
+
+staff
+Use case: ui-mockup / product-mockup.
+Create a NEW premium Behance-style RESPONSIVE STAFF ADMINISTRATION mockup for a two-branch Korean barbecue restaurant. Use the attached restaurant mockup as a STYLE REFERENCE ONLY: warm ivory #F7F5F0, dark forest green #18352F, restrained terracotta #CB4828, modern accurate Korean typography, realistic matte dark devices and soft warm studio shadows.
+High-resolution landscape 16:10. Show one large near-front-facing landscape tablet or slim desktop display occupying the left two-thirds, and one complete upright smartphone on the right. The screens must be readable. Plenty of breathing room, devices not colliding. No laptops showing the customer food homepage, no people/hands/extra objects. No title or text outside screens. No contact names, personal information, phone numbers, URLs, QR, watermark, third-party logos, graphs, revenue analytics or payment controls.
+Large screen is a STAFF DAY RESERVATION VIEW. Wordmark EXACTLY "매장 관리". Obvious branch switch EXACTLY "매장 A" and "매장 B", with A selected. Simple sidebar labels EXACTLY "오늘", "예약", "포장", "메뉴". Page title EXACTLY "오늘의 예약", date EXACTLY "12월 18일" WITHOUT weekdays or year. An action EXACTLY "예약 등록" for phone reservations. Clear calendar/list rows with room names and status badges:
+"18:30", "단체룸 1", "8명", "예약 요청"
+"19:00", "단체룸 2", "6명", "확정"
+"20:00", "단체석", "10명", "예약 요청".
+Use prominent green "확정" and neutral "변경" actions on the request detail, but do not imply automatic confirmation. Include a subtle room-management button EXACTLY "마감 설정".
+Smartphone is a STAFF TAKEOUT QUEUE AND MENU CONTROL. Header EXACTLY "매장 A", page title EXACTLY "포장 주문", pickup EXACTLY "19:00", order EXACTLY "#012", menu EXACTLY "모둠 구이", state EXACTLY "준비 중", an obvious primary action EXACTLY "준비 완료". Under a subtle divider show a compact menu management section EXACTLY "메뉴 관리", row EXACTLY "모둠 구이", price EXACTLY "58,000원", small action EXACTLY "가격 수정", status EXACTLY "판매 중".
+Keep it a coherent, exceptionally polished functional operations UI rather than a dashboard template. No customer names or contact details. Do not add any online payment, customer wallet, refund or POS integration UI. The emphasis is staff using mobile devices during busy hours, branch context, pending versus confirmed bookings, ready-for-pickup actions and direct price edits. No random decorative text or fake performance claims.

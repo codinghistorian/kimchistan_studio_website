@@ -1,0 +1,39 @@
+{
+  "project": "227326",
+  "classification": "공고 기반 UI/UX 제안 콘셉트. 음식 사진은 실제 무료 스톡 촬영본이며 매장·메뉴·가격·데이터는 예시입니다.",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "file": "01-responsive-overview.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/01-responsive-overview.png",
+      "size": [
+        1585,
+        992
+      ],
+      "bytes": 1527549,
+      "sha256": "9b0d4bc3f54a6177bc8168a228602295bfec569f3cf567ff89ed4154841f0930"
+    },
+    {
+      "file": "02-customer-flows.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/02-customer-flows.png",
+      "size": [
+        1585,
+        992
+      ],
+      "bytes": 1428055,
+      "sha256": "a2ff72960e435cd17bd0074a879e6e6590798745341f6fe53cb71a18a8ed05fa"
+    },
+    {
+      "file": "03-staff-operations.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/03-staff-operations.png",
+      "size": [
+        1586,
+        992
+      ],
+      "bytes": 1564244,
+      "sha256": "e2029357c883299f34b262da1752b59f2e47feee92a63c96472ad62ee3ac0841"
+    }
+  ],
+  "food_photo_method": "Literal source-photo compositing with crop/readability gradients; no AI food generation or regeneration.",
+  "stock_sources": "stock/sources.json"
+}

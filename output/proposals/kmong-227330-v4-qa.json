@@ -1,0 +1,130 @@
+{
+  "status": "passed",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v4.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227330-submission-v4.txt",
+  "pages": 7,
+  "pdf_bytes": 2551171,
+  "allowed_video_urls": [
+    "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+  ],
+  "uri_annotations": 6,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "render_max_dimension_px": 1800,
+    "checks": [
+      "Korean glyphs and readability",
+      "no overlap clipping or isolated trailing syllables",
+      "meaning-based sentence line breaks on pages2/6/7",
+      "original poster framing and video cards preserved",
+      "contract terms and PM M1-M4/O1 preserved"
+    ]
+  },
+  "qr_pixel_decode": {
+    "status": "passed",
+    "method": "macOS Vision on final rendered page3/4 PNGs",
+    "results": [
+      {
+        "decoded_urls": [
+          "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+        ],
+        "image": "tmp/pdfs/kmong-227330-v4/designer-page-3.png"
+      },
+      {
+        "decoded_urls": [
+          "https://www.youtube.com/shorts/kOg6ybxZyqs"
+        ],
+        "image": "tmp/pdfs/kmong-227330-v4/designer-page-4.png"
+      }
+    ]
+  },
+  "korean_review_items": [
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "K09",
+    "K10",
+    "K11",
+    "K12",
+    "K13",
+    "K14"
+  ],
+  "pm_improvements": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "O1"
+  ],
+  "pdf_sha256": "7daa7a714f201f9c8ad4dbfe5ea045919e206b0c0c340cacd94189f9aff61486",
+  "submission_sha256": "9a490a06ed6a858aacdb0eff9664102f7e5a76f336a50755cdbc05a0f363e38d",
+  "language_replacement_verification": {
+    "status": "passed",
+    "candidates_verified": 47,
+    "items_verified": 14
+  },
+  "storyboard_intervals": [
+    [
+      "00:00",
+      "00:20"
+    ],
+    [
+      "00:20",
+      "00:45"
+    ],
+    [
+      "00:45",
+      "01:25"
+    ],
+    [
+      "01:25",
+      "02:10"
+    ],
+    [
+      "02:10",
+      "02:55"
+    ],
+    [
+      "02:55",
+      "03:30"
+    ]
+  ],
+  "stage": "Final v4 completed after PM v3 -> Designer v3 -> Korean review v3 -> Designer v4 sequence.",
+  "parent_final_review": {
+    "status": "passed",
+    "pages_visually_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "independent_final_render_qr_decode": {
+      "3": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "4": "https://www.youtube.com/shorts/kOg6ybxZyqs"
+    },
+    "uri_bounds_and_destinations": "passed",
+    "submission_and_core_terms": "passed",
+    "original_versions_preserved": "passed",
+    "four_requested_stages_executed_sequentially": true
+  }
+}

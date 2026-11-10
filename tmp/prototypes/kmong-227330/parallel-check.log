@@ -1,0 +1,8 @@
+00:00.376  blend            | Read blend: "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/prototypes/kmong-227330/precast-assembly.blend"
+00:05.552  render           | Saved: '/tmp/kimchistan-parallel-render-check/frame_0001.png'
+00:09.970  render           | Saved: '/tmp/kimchistan-parallel-render-check/frame_0002.png'
+00:14.496  render           | Saved: '/tmp/kimchistan-parallel-render-check/frame_0003.png'
+PARALLEL_CHECK_SECONDS 14.0935498750041
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:49:19)
+
+Blender quit

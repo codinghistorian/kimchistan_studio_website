@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "files": [
+    {
+      "file": "kindergarten-tour-6s.gif",
+      "frames": 60,
+      "duration_ms": 6000,
+      "unique_frames": 60,
+      "infinite_loop": true,
+      "size": [
+        640,
+        360
+      ],
+      "source_start_seconds": 14
+    },
+    {
+      "file": "orbit-foundry-cinematic-6s.gif",
+      "frames": 60,
+      "duration_ms": 6000,
+      "unique_frames": 60,
+      "infinite_loop": true,
+      "size": [
+        270,
+        480
+      ]
+    },
+    {
+      "file": "precast-slab-placement-6s.gif",
+      "frames": 60,
+      "duration_ms": 6000,
+      "unique_frames": 60,
+      "infinite_loop": true,
+      "size": [
+        640,
+        360
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "project": "227326",
+  "classification": "공고 기반 UI/UX 제안 콘셉트, 가상 화면·매장·메뉴·가격·사진",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "file": "01-responsive-overview.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/01-responsive-overview.png",
+      "size": [
+        1585,
+        992
+      ],
+      "bytes": 1795817,
+      "sha256": "89dfa1714921c75445c201b41af9a5356d9f387e7b5798896db841f3dd82e9ea"
+    },
+    {
+      "file": "02-customer-flows.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/02-customer-flows.png",
+      "size": [
+        1585,
+        992
+      ],
+      "bytes": 1728209,
+      "sha256": "70f75be93acf4667b03594bf2312f60424432bffba29f0234f82d4d86a5b0058"
+    },
+    {
+      "file": "03-staff-operations.png",
+      "path": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/design/kmong-227326/03-staff-operations.png",
+      "size": [
+        1586,
+        992
+      ],
+      "bytes": 1564244,
+      "sha256": "e2029357c883299f34b262da1752b59f2e47feee92a63c96472ad62ee3ac0841"
+    }
+  ]
+}

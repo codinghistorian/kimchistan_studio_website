@@ -1,0 +1,19 @@
+{
+  "page_headings": {
+    "PROPOSAL": "제안 개요",
+    "UI/UX CONCEPT": "화면 설계 방향",
+    "CUSTOMER EXPERIENCE": "고객 접수 흐름",
+    "STAFF EXPERIENCE": "직원 관리 화면",
+    "REQUEST OPERATIONS": "접수 운영 방식",
+    "BOOKING & NAVER": "단체 예약과 네이버 운영",
+    "SCOPE & QUOTATION": "구축 범위와 견적",
+    "TEAM & SCHEDULE": "수행 인력과 일정",
+    "OPERATIONS & SUPPORT": "운영 비용과 지원",
+    "FUTURE ONLINE PAYMENT": "향후 온라인 결제",
+    "EXPERIENCE & ACCEPTANCE": "관련 경험과 검수 기준"
+  },
+  "top_right": "고깃집 홈페이지 구축 제안 / 해당 장 제목",
+  "top_left": "김치스탄스튜디오",
+  "image_section_label": "제안 단계 화면 설계 예시",
+  "submission_characters": 2626
+}

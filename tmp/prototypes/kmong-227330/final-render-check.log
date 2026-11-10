@@ -1,0 +1,14 @@
+/Users/techistudio/Documents/GitHub/kimchistan_studio_website/scripts/prototypes/kmong_227330.py:76: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+/Users/techistudio/Documents/GitHub/kimchistan_studio_website/scripts/prototypes/kmong_227330.py:469: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+00:05.727  render           | Saved: '/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/prototypes/kmong-227330/frames-4k/frame_0001.png'
+00:10.156  render           | Saved: '/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/prototypes/kmong-227330/frames-4k/frame_0002.png'
+00:14.716  render           | Saved: '/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/prototypes/kmong-227330/frames-4k/frame_0003.png'
+Info: Packed 2 file(s)
+Info: Saved as "precast-assembly.blend"
+RENDER_SECONDS 13.58
+COMPLETE final /Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/prototypes/kmong-227330
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:49:19)
+
+Blender quit

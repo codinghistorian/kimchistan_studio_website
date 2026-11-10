@@ -1,0 +1,48 @@
+{
+  "status": "designer_checks_passed",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v2.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227330-submission-v2.txt",
+  "pages": 7,
+  "pdf_bytes": 2548549,
+  "allowed_video_urls": [
+    "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+  ],
+  "uri_annotations": 6,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "render_max_dimension_px": 1800,
+    "checks": [
+      "Korean glyph readability",
+      "image and text framing",
+      "spacing and no overlap",
+      "7-page content order",
+      "9:16 cinematic poster preserved",
+      "video card and print QR placement",
+      "no contact or promotional endpoint text"
+    ]
+  },
+  "qr_pixel_decode": "parent verification pending",
+  "pdf_sha256": "b2f05860046f33272485b157a0f3324de75321377c48af6d55191eaa3c119747",
+  "changes": [
+    "Kindergarten dedicated video card before Orbit",
+    "two canonical video links and QR codes",
+    "public cinematic and current detail screens labelled separately",
+    "fixed 2026.11.30 handoff and early 4K render test",
+    "model scope fixed before contract",
+    "revision and change control clarified",
+    "editable source handoff and checks clarified"
+  ]
+}

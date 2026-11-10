@@ -1,0 +1,24 @@
+Food photographs used in the current concept mockups
+Downloaded and license checked on 2026-11-06.
+Photos are illustrative stock photographs, not photos of the client restaurant.
+Food pixels are composited from the source images without generative redrawing.
+Cropping and dark readability gradients are applied.
+The UI/device framework remains a proposal concept.
+
+tommao wang / Unsplash
+https://unsplash.com/photos/meat-is-grilling-on-a-hot-korean-barbecue-sy2GVc_MOrg
+License: https://unsplash.com/license
+File: stock/grill-tommao-2025.jpg
+SHA256: c1ba7017d5efab3decd762513fcb36d2a90e57a232b504aa204d2e2013192f42
+
+Kyle Mackie / Unsplash
+https://unsplash.com/photos/raw-meat-on-stainless-steel-tray-MEnlQv-EQvY
+License: https://unsplash.com/license
+File: stock/beef-kyle-mackie.jpg
+SHA256: 1f3642dd7f73b0bd0cd19f2307720eff3a8ad5168d9de43ddf88e66cd7fdce61
+
+makafood / Pexels
+https://www.pexels.com/photo/a-soup-in-a-pot-8934866/
+License: https://www.pexels.com/license/
+File: stock/soup-makafood.jpg
+SHA256: 74c2b6eca0528760e4abe988a58cefbbbd7efb9b89da63237618a7d75c798597

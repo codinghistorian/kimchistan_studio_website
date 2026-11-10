@@ -1,0 +1,9 @@
+{
+  "before_pdf_sha256": "71c03bbc4dc6608f62860a2b70de3486a3a1c2ec664c71dee527ae478268d15e",
+  "changes": [
+    "explicit browser playback guidance on all three posters and all three video buttons",
+    "two-line 10.5pt playback hint inside larger video buttons",
+    "9.5pt phone-camera scan instructions beside all three QR codes"
+  ],
+  "visible_revision_label": false
+}

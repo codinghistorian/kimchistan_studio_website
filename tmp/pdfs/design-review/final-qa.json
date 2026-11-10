@@ -1,0 +1,47 @@
+{
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kimchistan-studio-company-introduction.pdf",
+  "page_count": 11,
+  "individual_pdf_count": 10,
+  "file_bytes": 7761781,
+  "sha256": "76758b55ba6986dc396eb697f6494cd21d92a7b5ed5aab01b327f2a2dcff567e",
+  "render_dpi": 110,
+  "all_pages_visually_reviewed": true,
+  "final_unchanged_render_pages_compared_with_reviewed_v3": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "final_pages_reinspected_after_last_change": [
+    3,
+    4
+  ],
+  "paragraph_fields_preserved": [
+    "title",
+    "label",
+    "role",
+    "tech",
+    "description",
+    "detail"
+  ],
+  "edge_violations": [],
+  "afc_source_size": [
+    2048,
+    1128
+  ],
+  "afc_source_rgb_sha256": "1b76881ce2c1813caa8729400e35929b7500baa75bdc03335f72eaef821af450",
+  "afc_exact_image_preserved": true,
+  "cover_links": [
+    "mailto:kimmchistan@gmail.com",
+    "tel:+82319118190",
+    "https://kimchistan.kr/"
+  ],
+  "preview_contact_sheet": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/design-review/final-contact-sheet.jpg",
+  "font_source": "https://github.com/orioncactus/pretendard/tree/main/packages/pretendard/dist/public/static/alternative",
+  "font_license": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/design-review/fonts/Pretendard-LICENSE.txt"
+}

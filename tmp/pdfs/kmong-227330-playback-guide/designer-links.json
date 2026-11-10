@@ -1,0 +1,227 @@
+{
+  "links": [
+    {
+      "page": 1,
+      "url": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "kind": "poster",
+      "rect": [
+        36.0,
+        131.0,
+        506.0,
+        395.375
+      ]
+    },
+    {
+      "page": 2,
+      "url": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "kind": "qr",
+      "rect": [
+        733,
+        136,
+        801,
+        204
+      ]
+    },
+    {
+      "page": 2,
+      "url": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "kind": "button",
+      "rect": [
+        36,
+        56,
+        226,
+        100
+      ]
+    },
+    {
+      "page": 3,
+      "url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "kind": "poster",
+      "rect": [
+        36.0,
+        178.0,
+        526.0,
+        453.625
+      ]
+    },
+    {
+      "page": 3,
+      "url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "kind": "button",
+      "rect": [
+        548,
+        129,
+        717,
+        173
+      ]
+    },
+    {
+      "page": 3,
+      "url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "kind": "qr",
+      "rect": [
+        733,
+        123,
+        805,
+        195
+      ]
+    },
+    {
+      "page": 4,
+      "url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "kind": "poster",
+      "rect": [
+        36.0,
+        139.0,
+        216.0,
+        459.0
+      ]
+    },
+    {
+      "page": 4,
+      "url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "kind": "button",
+      "rect": [
+        36,
+        90,
+        216,
+        134
+      ]
+    },
+    {
+      "page": 4,
+      "url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "kind": "qr",
+      "rect": [
+        733,
+        176,
+        805,
+        248
+      ]
+    }
+  ],
+  "qr_layout": [
+    {
+      "page": 2,
+      "url": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "rect_pdf_points": [
+        733,
+        136,
+        801,
+        204
+      ]
+    },
+    {
+      "page": 3,
+      "url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "rect_pdf_points": [
+        733,
+        123,
+        805,
+        195
+      ]
+    },
+    {
+      "page": 4,
+      "url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "rect_pdf_points": [
+        733,
+        176,
+        805,
+        248
+      ]
+    }
+  ],
+  "pdf_annotations": [
+    {
+      "page": 1,
+      "uri": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "rect": [
+        36.0,
+        131.0,
+        506.0,
+        395.375
+      ]
+    },
+    {
+      "page": 2,
+      "uri": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "rect": [
+        733.0,
+        136.0,
+        801.0,
+        204.0
+      ]
+    },
+    {
+      "page": 2,
+      "uri": "https://www.youtube.com/watch?v=Ol1iQsFEI5M",
+      "rect": [
+        36.0,
+        56.0,
+        226.0,
+        100.0
+      ]
+    },
+    {
+      "page": 3,
+      "uri": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "rect": [
+        36.0,
+        178.0,
+        526.0,
+        453.625
+      ]
+    },
+    {
+      "page": 3,
+      "uri": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "rect": [
+        548.0,
+        129.0,
+        717.0,
+        173.0
+      ]
+    },
+    {
+      "page": 3,
+      "uri": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+      "rect": [
+        733.0,
+        123.0,
+        805.0,
+        195.0
+      ]
+    },
+    {
+      "page": 4,
+      "uri": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "rect": [
+        36.0,
+        139.0,
+        216.0,
+        459.0
+      ]
+    },
+    {
+      "page": 4,
+      "uri": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "rect": [
+        36.0,
+        90.0,
+        216.0,
+        134.0
+      ]
+    },
+    {
+      "page": 4,
+      "uri": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+      "rect": [
+        733.0,
+        176.0,
+        805.0,
+        248.0
+      ]
+    }
+  ]
+}

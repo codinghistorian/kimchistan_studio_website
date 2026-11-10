@@ -1,0 +1,139 @@
+{
+  "internal_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227326-proposal.pdf",
+  "attachment_pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/고깃집홈페이지-예약포장주문시스템-제안서.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227326-submission.txt",
+  "pages": 8,
+  "pdf_bytes": 624569,
+  "submission_characters": 2178,
+  "submission_utf16_units": 2178,
+  "submission_limit": 3000,
+  "submission_target": 2900,
+  "base_fees_vat_included": [
+    2000000,
+    1200000,
+    2000000,
+    1400000,
+    600000,
+    800000
+  ],
+  "base_total": 8000000,
+  "takeout_option": 2000000,
+  "combined_total": 10000000,
+  "future_pg_conditional_budget_vat_included": [
+    3000000,
+    5000000
+  ],
+  "start_date": "2026-11-13",
+  "end_date": "2026-12-20",
+  "elapsed_calendar_days": 37,
+  "warranty_calendar_days_after_acceptance": 30,
+  "glyphs_checked": 7622,
+  "edge_violations": [],
+  "contact_detail_scan": "passed",
+  "external_annotations": 0,
+  "embedded_files": 0,
+  "source_screenshot_crop": [
+    65,
+    431,
+    2231,
+    1423
+  ],
+  "source_screenshot_sha256": "26bb3fb880706d9a9f41959f8173c60ed0e93bdb9a56aa2102d894b7916de8a1",
+  "attachment_matches_internal_pdf": true,
+  "preserved_source_sha256": {
+    "output/pdf/kimchistan-studio-company-introduction.pdf": "76758b55ba6986dc396eb697f6494cd21d92a7b5ed5aab01b327f2a2dcff567e",
+    "output/pdf/kmong-227317-proposal.pdf": "77a6be9893f3d0f173ab6a7d23d6a2f521f429f4b07ffd9438cc9a90b1967a98",
+    "output/proposals/kmong-227317-submission.txt": "d97af6c8c397982386c7552e9f28b68eaa46d38b9dac57789c8db984c8f8d12a"
+  },
+  "pdf_sha256": "3bb5f5140768f67590263cdfe29b26d3d0a020630866a555f0c126a188d5bd26",
+  "submission_sha256": "3129c8e673f9aed6cf1b29a92e9867ffc49c6a15f6f022a87211239cdb87fe29",
+  "visual_review_complete": true,
+  "visually_reviewed_pages": [
+    {
+      "page": 1,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-1.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "cdd1e01ee83248bd1c5fe6b6b1e790c002cd8a048e63e488d8144355215a2aae",
+      "result": "passed"
+    },
+    {
+      "page": 2,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-2.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "5fee901f92ad677ef93b51110e87f37f44d037aac9d8c6c289472c7334ccb756",
+      "result": "passed"
+    },
+    {
+      "page": 3,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-3.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "31bb4a0d9e0f86020ab75eab63a3611ef6e57b661dea48e4b6805477ad8a45ea",
+      "result": "passed"
+    },
+    {
+      "page": 4,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-4.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "8215e5f52bafe6cb59d3419951c4f83b0bd4f4a3e3fe9b4af5d1d2db8d70d49b",
+      "result": "passed"
+    },
+    {
+      "page": 5,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-5.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "02b7a51ce3035cbcf5ef23dec5e6cfa35793901d8ddfe419b10b89b203dd34b4",
+      "result": "passed"
+    },
+    {
+      "page": 6,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-6.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "7f17ca384d3a906fa143e75b18325da78f940068c3c3d5cbf739c4020524424c",
+      "result": "passed"
+    },
+    {
+      "page": 7,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-7.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "0dc84609311b6c7b666f2877b30ef6bee02cf50ddb325983decc0295470e7c86",
+      "result": "passed"
+    },
+    {
+      "page": 8,
+      "image": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/tmp/pdfs/kmong-227326/page-8.png",
+      "size": [
+        1075,
+        1521
+      ],
+      "sha256": "8efa8f24834e09c289cc10c3166a5de56d93691e73ef81c31c4ba33df7f55e5c",
+      "result": "passed"
+    }
+  ],
+  "visual_review_notes": [
+    "All eight pages inspected as rendered PNGs.",
+    "No clipping, overlap, broken glyphs or contact details visible.",
+    "Page 8 recaptured without cursor halo; pages 1-7 pixel-identical to the reviewed rendering."
+  ],
+  "commercial_consistency_review": "PDF and submission agree on current scope, optional scope, dates, staffing, VAT, support, costs and conditional future PG scope."
+}

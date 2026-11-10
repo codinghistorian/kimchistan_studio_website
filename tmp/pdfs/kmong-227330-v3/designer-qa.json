@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "pdf": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/pdf/kmong-227330-proposal-v3.pdf",
+  "submission": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/proposals/kmong-227330-submission-v3.txt",
+  "pages": 7,
+  "pdf_bytes": 2549957,
+  "allowed_video_urls": [
+    "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+  ],
+  "uri_annotations": 6,
+  "contact_text_check": "passed",
+  "source_limits_and_draft_terms": "preserved",
+  "proposed_duration_seconds": 210,
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "render_max_dimension_px": 1800,
+    "checks": [
+      "Korean glyphs and readability",
+      "spacing and no overlap or clipping",
+      "summary comparison conditions",
+      "video card recommendation caption placement",
+      "schedule confirmation points and QA section"
+    ]
+  },
+  "qr_pixel_decode": {
+    "status": "passed",
+    "method": "macOS Vision on final rendered page PNGs",
+    "results": [
+      {
+        "decoded_urls": [
+          "https://www.youtube.com/watch?v=At6hzU6x3Y8"
+        ],
+        "image": "tmp/pdfs/kmong-227330-v3/designer-page-3.png"
+      },
+      {
+        "decoded_urls": [
+          "https://www.youtube.com/shorts/kOg6ybxZyqs"
+        ],
+        "image": "tmp/pdfs/kmong-227330-v3/designer-page-4.png"
+      }
+    ]
+  },
+  "pm_improvements": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "O1"
+  ],
+  "pdf_sha256": "e37af2ecc492adb8f1752bf7d0443bc8afe9d2ed2ff7c4c1aeed8378c4cfb896",
+  "submission_sha256": "a77b23ca19a98f21ad32436753795845708f3a9590e25f7fdd868de09211f123",
+  "pm_improvement_details": {
+    "M1": "Page 1: target audience and sales use, 30-second sample evidence, delivery/formats, editable source, VAT-inclusive 7m KRW explicitly as a proposal draft.",
+    "M2": "Page 2 and submission: placement sequence, overview/closeup transitions, captions/highlights first; quality check and concept limitations retained.",
+    "M3": "Pages 6/7 and submission: pre-contract representative model scoping vs post-start full model/process checks; existing Nov 16/22/25 review contents specified; data summary and QA retained.",
+    "M4": "Page 5 and submission: final 35 seconds gives client-presentation summary of verified component roles/sequence/connections; total 210 seconds retained.",
+    "O1": "Pages 3/4 and submission: Kindergarten 00:14-00:35, Orbit 00:06-00:16 recommended viewing sections; canonical video/QR destinations unchanged."
+  },
+  "stage": "Frozen v3 for sequential Korean-language review; no further edits after this check."
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "file": "kindergarten-tour-6s.gif",
+    "source_video": "/Users/techistudio/Documents/GitHub/test-blender-codex/artifacts/cinematic/korean-kindergarten/revisions/bathroom-v4/Korean-Kindergarten-Bathroom-Review-720p.mp4",
+    "start_seconds": 14,
+    "duration_seconds": 6,
+    "fps": 10,
+    "target_width": 640,
+    "youtube_url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "derivative": "Actual continuous source-video excerpt. No still-image motion simulation. Silent looping GIF for separate viewing; PDF uses static posters and video links.",
+    "bytes": 5421858
+  },
+  {
+    "file": "orbit-foundry-cinematic-6s.gif",
+    "source_video": "/Users/techistudio/Documents/GitHub/incremental_02_records_recovery/marketing/youtube/shorts/upload/orbit-foundry-3d-short.mp4",
+    "start_seconds": 6,
+    "duration_seconds": 6,
+    "fps": 10,
+    "target_width": 270,
+    "youtube_url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "derivative": "Actual continuous source-video excerpt. No still-image motion simulation. Silent looping GIF for separate viewing; PDF uses static posters and video links.",
+    "bytes": 1505644
+  },
+  {
+    "file": "precast-slab-placement-6s.gif",
+    "source_video": "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/prototypes/kmong-227330-v2/precast-assembly-30s-1080p.mp4",
+    "start_seconds": 19,
+    "duration_seconds": 6,
+    "fps": 10,
+    "target_width": 640,
+    "youtube_url": null,
+    "derivative": "Actual continuous source-video excerpt. No still-image motion simulation. Silent looping GIF for separate viewing; PDF uses static posters and video links.",
+    "bytes": 2221514
+  }
+]

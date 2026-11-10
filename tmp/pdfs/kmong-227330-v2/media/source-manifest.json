@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kindergarten",
+    "source_path": "/Users/techistudio/Documents/GitHub/test-blender-codex/artifacts/cinematic/korean-kindergarten/revisions/bathroom-v4/Korean-Kindergarten-Bathroom-Review-720p.mp4",
+    "source_sha256": "c0fb7a026b7f3cdedfca732bb4f9cc5d550b1da27946703d3c4eb8f0d016f12a",
+    "youtube_url": "https://www.youtube.com/watch?v=At6hzU6x3Y8",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "63.018000",
+        "size": "11734430"
+      }
+    },
+    "sampled_seconds": [
+      5,
+      14,
+      29,
+      39,
+      49,
+      53,
+      61
+    ],
+    "review_method": "Local upload/source review copy matched to public video by delivery record and current public metadata. Visual frame review, no audio listening claim."
+  },
+  {
+    "id": "orbit-short",
+    "source_path": "/Users/techistudio/Documents/GitHub/incremental_02_records_recovery/marketing/youtube/shorts/upload/orbit-foundry-3d-short.mp4",
+    "source_sha256": "0814138af396e6ba7d66f9298ea4289f342af494f9e312c908e3605bbcaed1e0",
+    "youtube_url": "https://www.youtube.com/shorts/kOg6ybxZyqs",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "22.500000",
+        "size": "12790032"
+      }
+    },
+    "sampled_seconds": [
+      1,
+      4,
+      8,
+      12,
+      16,
+      20,
+      22
+    ],
+    "review_method": "Local upload/source review copy matched to public video by delivery record and current public metadata. Visual frame review, no audio listening claim."
+  }
+]

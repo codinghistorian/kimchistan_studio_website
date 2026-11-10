@@ -1,0 +1,7 @@
+00:00.345  blend            | Read blend: "/Users/techistudio/Documents/GitHub/kimchistan_studio_website/output/prototypes/kmong-227330/precast-assembly.blend"
+00:04.206  render           | Saved: '/tmp/kimchistan-precast-direct-light-check.png'
+GI_SETTINGS GLOBAL_ILLUMINATION 8 2 0.25
+DIRECT_LIGHT_SECONDS 3.835890082998958
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:49:19)
+
+Blender quit
