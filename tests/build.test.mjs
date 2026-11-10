@@ -100,6 +100,36 @@ test('bilingual project briefs are complete, correctly encoded mailto URLs', () 
   }
 });
 
+test('the homepage presents all five crafts with working anchors and an accessible headline', async () => {
+  const home = await html('');
+  for (const id of ['videos', 'lettuce']) assert.ok(home.includes('id="' + id + '"'), id);
+  for (const word of ['GAMES', 'SOFTWARE', 'AI AGENTS', 'VIDEOS', 'LETTUCE', '상추']) assert.ok(home.includes('data-word=') && home.includes(word), word);
+  assert.match(home, /<h1 class="hero-title"><span class="sr-only">.*makes games, software, AI agents and videos, and grows lettuce\./);
+  assert.match(home, /class="hero-title-visual" aria-hidden="true"/);
+  const services = await html('services/');
+  for (const id of ['custom-applications', 'internal-tools', 'ai-agents']) assert.ok(services.includes('id="' + id + '"'), id);
+});
+
+test('motion can be paused on every page and respects reduced-motion before first paint', async () => {
+  for (const route of routes) {
+    const source = await html(route);
+    assert.ok(source.includes('data-motion-toggle'), route);
+    assert.ok(source.includes("matchMedia('(prefers-reduced-motion: reduce)')"), route);
+  }
+  await exists(resolve(root, outputDirectory, 'assets/fonts/unbounded-latin.woff2'));
+  await exists(resolve(root, outputDirectory, 'assets/fonts/UNBOUNDED-LICENSE.txt'));
+});
+
+test('topic inquiry templates are localized and fall back to the general brief', () => {
+  const body = (topic, lang) => new URL(inquiryHref('kimmchistan@gmail.com', lang, topic)).searchParams;
+  assert.equal(body('lettuce', 'en').get('subject'), 'Lettuce order — KIMCHISTAN STUDIO');
+  assert.ok(body('lettuce', 'en').get('body').includes('Quantity:'));
+  assert.ok(body('lettuce', 'ko').get('body').includes('수량:'));
+  assert.ok(body('videos', 'en').get('body').includes('Length and format:'));
+  assert.ok(body('agents', 'ko').get('body').includes('결과를 검토할 담당자:'));
+  assert.equal(inquiryHref('kimmchistan@gmail.com', 'en', 'unknown'), inquiryHref('kimmchistan@gmail.com', 'en'));
+});
+
 test('empty notices remain accessible and do not offer nonfunctional filters', async () => {
   const source = await html('notices/');
   assert.ok(source.includes('등록된 공고가 없습니다.'));
